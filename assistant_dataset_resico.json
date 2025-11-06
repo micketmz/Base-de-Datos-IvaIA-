@@ -33,8 +33,8 @@
     "id": "1fe6c4ac-9008-4d68-ad91-628db4c093cc",
     "name": "Agua",
     "synonyms": [
-      "servicio de agua",
-      "agua potable"
+      "agua potable",
+      "servicio de agua"
     ],
     "regimes": [
       "RESICO"
@@ -119,6 +119,7 @@
     "name": "Limpieza",
     "synonyms": [
       "insumos de limpieza",
+      "sanitización",
       "servicio de limpieza"
     ],
     "regimes": [
@@ -132,8 +133,9 @@
     "id": "93e256f9-f0ff-4e9a-8cc9-65941492fe76",
     "name": "Seguridad",
     "synonyms": [
-      "cámaras",
       "alarmas",
+      "cctv",
+      "cámaras",
       "vigilancia"
     ],
     "regimes": [
@@ -273,8 +275,8 @@
     "id": "07ce8064-599d-4bf1-9c51-4919c6efb3af",
     "name": "Software",
     "synonyms": [
-      "suscripciones",
-      "licencias"
+      "licencias",
+      "suscripciones"
     ],
     "regimes": [
       "RESICO"
@@ -7878,5 +7880,540 @@
     "deductible": true,
     "ivaCreditable": true,
     "notes": "CFDI requerido; relación directa con la actividad; límites ingresos RESICO $3.5M; Art. 113-J LISR 2025."
+  },
+  {
+    "id": "7d399376-7744-4e94-b778-5a5945e01ada",
+    "name": "Luz",
+    "synonyms": [
+      "CFE",
+      "electricidad",
+      "energía eléctrica",
+      "luz"
+    ],
+    "regimes": [
+      "RESICO"
+    ],
+    "deductible": true,
+    "ivaCreditable": true,
+    "notes": "CFDI requerido; relación directa con la actividad; límites ingresos RESICO $3.5M; Art. 113-J LISR 2025."
+  },
+  {
+    "id": "168cb5d3-b156-4ee3-ba28-ef81f6955824",
+    "name": "Teléfono",
+    "synonyms": [
+      "telefonía fija",
+      "telefonía móvil",
+      "teléfono"
+    ],
+    "regimes": [
+      "RESICO"
+    ],
+    "deductible": true,
+    "ivaCreditable": true,
+    "notes": "CFDI requerido; relación directa con la actividad; límites ingresos RESICO $3.5M; Art. 113-J LISR 2025."
+  },
+  {
+    "id": "2e1e9df2-3076-4692-b97a-962cedd7dd0d",
+    "name": "Internet",
+    "synonyms": [
+      "banda ancha",
+      "datos móviles",
+      "internet"
+    ],
+    "regimes": [
+      "RESICO"
+    ],
+    "deductible": true,
+    "ivaCreditable": true,
+    "notes": "CFDI requerido; relación directa con la actividad; límites ingresos RESICO $3.5M; Art. 113-J LISR 2025."
+  },
+  {
+    "id": "fed1d2e0-62c1-449e-b179-f60149249745",
+    "name": "Papelería",
+    "synonyms": [
+      "consumibles de oficina",
+      "papelería"
+    ],
+    "regimes": [
+      "RESICO"
+    ],
+    "deductible": true,
+    "ivaCreditable": true,
+    "notes": "CFDI requerido; relación directa con la actividad; límites ingresos RESICO $3.5M; Art. 113-J LISR 2025."
+  },
+  {
+    "id": "234b318c-6f42-4af1-85fa-755d8faccb90",
+    "name": "Sueldos",
+    "synonyms": [
+      "nómina",
+      "salarios",
+      "sueldos"
+    ],
+    "regimes": [
+      "RESICO"
+    ],
+    "deductible": true,
+    "ivaCreditable": false,
+    "notes": "CFDI requerido; relación directa con la actividad; límites ingresos RESICO $3.5M; Art. 113-J LISR 2025."
+  },
+  {
+    "id": "4edd5347-378b-4a47-acda-ec9a14cf9560",
+    "name": "IMSS",
+    "synonyms": [
+      "imss",
+      "seguridad social"
+    ],
+    "regimes": [
+      "RESICO"
+    ],
+    "deductible": true,
+    "ivaCreditable": false,
+    "notes": "CFDI requerido; relación directa con la actividad; límites ingresos RESICO $3.5M; Art. 113-J LISR 2025."
+  },
+  {
+    "id": "759c876e-fb08-46ab-879b-a614f22cfe3a",
+    "name": "SAR",
+    "synonyms": [
+      "ahorro para el retiro",
+      "sar"
+    ],
+    "regimes": [
+      "RESICO"
+    ],
+    "deductible": true,
+    "ivaCreditable": false,
+    "notes": "CFDI requerido; relación directa con la actividad; límites ingresos RESICO $3.5M; Art. 113-J LISR 2025."
+  },
+  {
+    "id": "112b5330-c617-4398-b6ee-85cf2297f9c8",
+    "name": "Uniformes",
+    "synonyms": [
+      "ropa de trabajo",
+      "uniformes"
+    ],
+    "regimes": [
+      "RESICO"
+    ],
+    "deductible": true,
+    "ivaCreditable": true,
+    "notes": "CFDI requerido; relación directa con la actividad; límites ingresos RESICO $3.5M; Art. 113-J LISR 2025."
+  },
+  {
+    "id": "4bf8af2e-1fde-49c4-b7d9-2bc748019d86",
+    "name": "Comedor",
+    "synonyms": [
+      "comedor",
+      "comedor industrial",
+      "vales de comedor"
+    ],
+    "regimes": [
+      "RESICO"
+    ],
+    "deductible": true,
+    "ivaCreditable": true,
+    "notes": "CFDI requerido; relación directa con la actividad; límites ingresos RESICO $3.5M; Art. 113-J LISR 2025."
+  },
+  {
+    "id": "43a3dba5-a4a2-495f-a488-af531485572e",
+    "name": "Gasolina",
+    "synonyms": [
+      "combustible",
+      "diesel",
+      "gasolina"
+    ],
+    "regimes": [
+      "RESICO"
+    ],
+    "deductible": true,
+    "ivaCreditable": true,
+    "notes": "CFDI requerido; relación directa con la actividad; límites ingresos RESICO $3.5M; Art. 113-J LISR 2025."
+  },
+  {
+    "id": "aee6d87e-2752-4f7d-a025-7c46a2ed927d",
+    "name": "Mantenimiento de vehículos",
+    "synonyms": [
+      "mantenimiento de vehículos",
+      "servicio vehicular",
+      "taller"
+    ],
+    "regimes": [
+      "RESICO"
+    ],
+    "deductible": true,
+    "ivaCreditable": true,
+    "notes": "CFDI requerido; relación directa con la actividad; límites ingresos RESICO $3.5M; Art. 113-J LISR 2025."
+  },
+  {
+    "id": "4ed80ba6-f43c-4eb5-8f0f-036434eaadc6",
+    "name": "Refacciones",
+    "synonyms": [
+      "autopartes",
+      "refacciones"
+    ],
+    "regimes": [
+      "RESICO"
+    ],
+    "deductible": true,
+    "ivaCreditable": true,
+    "notes": "CFDI requerido; relación directa con la actividad; límites ingresos RESICO $3.5M; Art. 113-J LISR 2025."
+  },
+  {
+    "id": "c8ceb030-b518-498c-ad0b-dd73e3d23e07",
+    "name": "Estacionamiento",
+    "synonyms": [
+      "estacionamiento",
+      "parquímetro"
+    ],
+    "regimes": [
+      "RESICO"
+    ],
+    "deductible": true,
+    "ivaCreditable": true,
+    "notes": "CFDI requerido; relación directa con la actividad; límites ingresos RESICO $3.5M; Art. 113-J LISR 2025."
+  },
+  {
+    "id": "0dff8467-5a8d-44cc-aedf-cd3d7293d326",
+    "name": "Casetas",
+    "synonyms": [
+      "casetas",
+      "peaje"
+    ],
+    "regimes": [
+      "RESICO"
+    ],
+    "deductible": true,
+    "ivaCreditable": false,
+    "notes": "CFDI requerido; relación directa con la actividad; límites ingresos RESICO $3.5M; Art. 113-J LISR 2025."
+  },
+  {
+    "id": "089ffa0c-b407-4d94-bf52-3a1bc04392a4",
+    "name": "Honorarios contador",
+    "synonyms": [
+      "honorarios contador",
+      "servicios contables"
+    ],
+    "regimes": [
+      "RESICO"
+    ],
+    "deductible": true,
+    "ivaCreditable": true,
+    "notes": "CFDI requerido; relación directa con la actividad; límites ingresos RESICO $3.5M; Art. 113-J LISR 2025."
+  },
+  {
+    "id": "2663bd70-a81b-4946-9e30-92c09bc4c8ea",
+    "name": "Honorarios abogado",
+    "synonyms": [
+      "honorarios abogado",
+      "servicios legales"
+    ],
+    "regimes": [
+      "RESICO"
+    ],
+    "deductible": true,
+    "ivaCreditable": true,
+    "notes": "CFDI requerido; relación directa con la actividad; límites ingresos RESICO $3.5M; Art. 113-J LISR 2025."
+  },
+  {
+    "id": "9deb6ac5-6628-4116-804e-1e328724f871",
+    "name": "Auditoría",
+    "synonyms": [
+      "auditoría",
+      "auditoría externa",
+      "revisión fiscal"
+    ],
+    "regimes": [
+      "RESICO"
+    ],
+    "deductible": true,
+    "ivaCreditable": true,
+    "notes": "CFDI requerido; relación directa con la actividad; límites ingresos RESICO $3.5M; Art. 113-J LISR 2025."
+  },
+  {
+    "id": "e82d6241-7251-4b94-8cd8-fa508a905dfa",
+    "name": "Renta de oficina",
+    "synonyms": [
+      "arrendamiento de oficina",
+      "renta de oficina",
+      "renta local"
+    ],
+    "regimes": [
+      "RESICO"
+    ],
+    "deductible": true,
+    "ivaCreditable": true,
+    "notes": "CFDI requerido; relación directa con la actividad; límites ingresos RESICO $3.5M; Art. 113-J LISR 2025."
+  },
+  {
+    "id": "db68cd31-2139-4ba5-ae88-b3862495aa65",
+    "name": "Predial",
+    "synonyms": [
+      "impuesto predial",
+      "predial"
+    ],
+    "regimes": [
+      "RESICO"
+    ],
+    "deductible": true,
+    "ivaCreditable": false,
+    "notes": "CFDI requerido; relación directa con la actividad; límites ingresos RESICO $3.5M; Art. 113-J LISR 2025."
+  },
+  {
+    "id": "f676d8ef-5b41-4879-99f6-8d8de83785d4",
+    "name": "Mantenimiento de inmueble",
+    "synonyms": [
+      "conservación inmueble",
+      "mantenimiento de inmueble"
+    ],
+    "regimes": [
+      "RESICO"
+    ],
+    "deductible": true,
+    "ivaCreditable": true,
+    "notes": "CFDI requerido; relación directa con la actividad; límites ingresos RESICO $3.5M; Art. 113-J LISR 2025."
+  },
+  {
+    "id": "47414704-64a7-42a8-a95f-528d56d95816",
+    "name": "Reparaciones de inmueble",
+    "synonyms": [
+      "reparaciones",
+      "reparaciones de inmueble"
+    ],
+    "regimes": [
+      "RESICO"
+    ],
+    "deductible": true,
+    "ivaCreditable": true,
+    "notes": "CFDI requerido; relación directa con la actividad; límites ingresos RESICO $3.5M; Art. 113-J LISR 2025."
+  },
+  {
+    "id": "c3e06642-6883-497a-9176-a9ff58bf3f38",
+    "name": "Hardware",
+    "synonyms": [
+      "equipo de cómputo",
+      "hardware"
+    ],
+    "regimes": [
+      "RESICO"
+    ],
+    "deductible": true,
+    "ivaCreditable": true,
+    "notes": "CFDI requerido; relación directa con la actividad; límites ingresos RESICO $3.5M; Art. 113-J LISR 2025."
+  },
+  {
+    "id": "a96aea24-194b-4a0c-b0ef-80bfcbbe2586",
+    "name": "Hosting",
+    "synonyms": [
+      "cloud",
+      "hosting",
+      "servidor"
+    ],
+    "regimes": [
+      "RESICO"
+    ],
+    "deductible": true,
+    "ivaCreditable": true,
+    "notes": "CFDI requerido; relación directa con la actividad; límites ingresos RESICO $3.5M; Art. 113-J LISR 2025."
+  },
+  {
+    "id": "fac66774-41fb-48a1-bda8-0a8f4f8bc959",
+    "name": "Dominios",
+    "synonyms": [
+      "dominio web",
+      "dominios"
+    ],
+    "regimes": [
+      "RESICO"
+    ],
+    "deductible": true,
+    "ivaCreditable": true,
+    "notes": "CFDI requerido; relación directa con la actividad; límites ingresos RESICO $3.5M; Art. 113-J LISR 2025."
+  },
+  {
+    "id": "1f84e02c-ec17-4fdf-8bc0-cfdf67abf4a7",
+    "name": "Licencias",
+    "synonyms": [
+      "licencia de software",
+      "licencias"
+    ],
+    "regimes": [
+      "RESICO"
+    ],
+    "deductible": true,
+    "ivaCreditable": true,
+    "notes": "CFDI requerido; relación directa con la actividad; límites ingresos RESICO $3.5M; Art. 113-J LISR 2025."
+  },
+  {
+    "id": "26a6a161-1fa7-4a7d-bfca-87efe9c8f740",
+    "name": "Restaurante - Insumos",
+    "synonyms": [
+      "alimentos e insumos",
+      "restaurante - insumos"
+    ],
+    "regimes": [
+      "RESICO"
+    ],
+    "deductible": true,
+    "ivaCreditable": false,
+    "notes": "CFDI requerido; relación directa con la actividad; límites ingresos RESICO $3.5M; Art. 113-J LISR 2025."
+  },
+  {
+    "id": "c65665ea-e7af-4ca9-9d67-b607a7039828",
+    "name": "Restaurante - Menaje",
+    "synonyms": [
+      "menaje de cocina",
+      "restaurante - menaje",
+      "utensilios"
+    ],
+    "regimes": [
+      "RESICO"
+    ],
+    "deductible": true,
+    "ivaCreditable": true,
+    "notes": "CFDI requerido; relación directa con la actividad; límites ingresos RESICO $3.5M; Art. 113-J LISR 2025."
+  },
+  {
+    "id": "abf83e8c-04d5-4a08-8968-7ced65dc1296",
+    "name": "Construcción - Materiales",
+    "synonyms": [
+      "acero",
+      "cemento",
+      "construcción - materiales",
+      "varilla"
+    ],
+    "regimes": [
+      "RESICO"
+    ],
+    "deductible": true,
+    "ivaCreditable": true,
+    "notes": "CFDI requerido; relación directa con la actividad; límites ingresos RESICO $3.5M; Art. 113-J LISR 2025."
+  },
+  {
+    "id": "c9825d0d-ca1b-4228-b040-b0140c04c7c2",
+    "name": "Construcción - Maquinaria",
+    "synonyms": [
+      "andamios",
+      "construcción - maquinaria",
+      "retroexcavadora"
+    ],
+    "regimes": [
+      "RESICO"
+    ],
+    "deductible": true,
+    "ivaCreditable": true,
+    "notes": "CFDI requerido; relación directa con la actividad; límites ingresos RESICO $3.5M; Art. 113-J LISR 2025."
+  },
+  {
+    "id": "11ff1664-7204-4deb-abdd-7483aa5af78c",
+    "name": "Salud - Instrumental",
+    "synonyms": [
+      "instrumental médico",
+      "salud - instrumental"
+    ],
+    "regimes": [
+      "RESICO"
+    ],
+    "deductible": true,
+    "ivaCreditable": true,
+    "notes": "CFDI requerido; relación directa con la actividad; límites ingresos RESICO $3.5M; Art. 113-J LISR 2025."
+  },
+  {
+    "id": "52b9d059-387e-40d1-9971-cb1823b96856",
+    "name": "Salud - Medicamentos",
+    "synonyms": [
+      "medicamentos",
+      "salud - medicamentos"
+    ],
+    "regimes": [
+      "RESICO"
+    ],
+    "deductible": true,
+    "ivaCreditable": false,
+    "notes": "CFDI requerido; relación directa con la actividad; límites ingresos RESICO $3.5M; Art. 113-J LISR 2025."
+  },
+  {
+    "id": "4c25c10f-ca78-4fcb-ba45-84485de9a734",
+    "name": "Retail - Inventario",
+    "synonyms": [
+      "mercancía",
+      "retail - inventario",
+      "stock"
+    ],
+    "regimes": [
+      "RESICO"
+    ],
+    "deductible": true,
+    "ivaCreditable": false,
+    "notes": "CFDI requerido; relación directa con la actividad; límites ingresos RESICO $3.5M; Art. 113-J LISR 2025."
+  },
+  {
+    "id": "a890a321-7c55-4550-9be2-27fb8e16903f",
+    "name": "Retail - Punto de venta",
+    "synonyms": [
+      "POS",
+      "retail - punto de venta",
+      "terminal"
+    ],
+    "regimes": [
+      "RESICO"
+    ],
+    "deductible": true,
+    "ivaCreditable": true,
+    "notes": "CFDI requerido; relación directa con la actividad; límites ingresos RESICO $3.5M; Art. 113-J LISR 2025."
+  },
+  {
+    "id": "5ce5d587-d624-410b-9248-bea5a7e3e1da",
+    "name": "Multas",
+    "synonyms": [
+      "multas",
+      "multas y sanciones"
+    ],
+    "regimes": [
+      "RESICO"
+    ],
+    "deductible": false,
+    "ivaCreditable": false,
+    "notes": "No deducible por LISR; fuera de política o sin vinculación con la actividad."
+  },
+  {
+    "id": "de3b1e6b-a14b-4b26-bc72-0f0730d59072",
+    "name": "Recargos",
+    "synonyms": [
+      "recargos",
+      "recargos por mora"
+    ],
+    "regimes": [
+      "RESICO"
+    ],
+    "deductible": false,
+    "ivaCreditable": false,
+    "notes": "No deducible por LISR; fuera de política o sin vinculación con la actividad."
+  },
+  {
+    "id": "733b130c-85be-4213-8385-a226748878a3",
+    "name": "Regalos >$500 pesos",
+    "synonyms": [
+      "obsequios suntuarios",
+      "regalos >$500 pesos"
+    ],
+    "regimes": [
+      "RESICO"
+    ],
+    "deductible": false,
+    "ivaCreditable": false,
+    "notes": "No deducible por LISR; fuera de política o sin vinculación con la actividad."
+  },
+  {
+    "id": "4d69b973-c088-472c-9cd0-1aa1bd7ce7ae",
+    "name": "ISR propio",
+    "synonyms": [
+      "impuesto sobre la renta propio",
+      "isr propio"
+    ],
+    "regimes": [
+      "RESICO"
+    ],
+    "deductible": false,
+    "ivaCreditable": false,
+    "notes": "No deducible por LISR; fuera de política o sin vinculación con la actividad."
   }
 ]
