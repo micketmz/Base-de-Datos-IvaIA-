@@ -1,0 +1,25 @@
+{
+  "version": "2025.11.05",
+  "releaseDate": "2025-11-05",
+  "description": "Catálogos SAT 2025 por régimen fiscal (base completa)",
+  "datasets": [
+    {
+      "regime": "RESICO",
+      "filename": "assistant_dataset_resico.json",
+      "totalConcepts": 574,
+      "size": "~500KB"
+    },
+    {
+      "regime": "PF_AEP",
+      "filename": "assistant_dataset_pf_aep.json",
+      "totalConcepts": 1074,
+      "size": "~1MB"
+    },
+    {
+      "regime": "PM_GENERAL",
+      "filename": "assistant_dataset_pm.json",
+      "totalConcepts": 1264,
+      "size": "~1.2MB"
+    }
+  ]
+}
