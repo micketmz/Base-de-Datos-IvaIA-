@@ -33,8 +33,8 @@
     "id": "9256b977-a7cb-4e28-8f0d-a05b6852785b",
     "name": "Agua",
     "synonyms": [
-      "servicio de agua",
-      "agua potable"
+      "agua potable",
+      "servicio de agua"
     ],
     "regimes": [
       "PM"
@@ -119,6 +119,7 @@
     "name": "Limpieza",
     "synonyms": [
       "insumos de limpieza",
+      "sanitización",
       "servicio de limpieza"
     ],
     "regimes": [
@@ -132,8 +133,9 @@
     "id": "646ed06b-beae-41dd-b20b-76e536d643ff",
     "name": "Seguridad",
     "synonyms": [
-      "cámaras",
       "alarmas",
+      "cctv",
+      "cámaras",
       "vigilancia"
     ],
     "regimes": [
@@ -273,8 +275,8 @@
     "id": "f5dbadf1-f709-4ac3-9dd0-e62d23dbb2c6",
     "name": "Software",
     "synonyms": [
-      "suscripciones",
-      "licencias"
+      "licencias",
+      "suscripciones"
     ],
     "regimes": [
       "PM"
@@ -18152,5 +18154,526 @@
     "deductible": true,
     "ivaCreditable": true,
     "notes": "CFDI requerido; Título II LISR (Personas Morales); contabilidad electrónica completa; políticas y autorizaciones internas."
+  },
+  {
+    "id": "6a8d1841-a145-48bf-bb7f-ae952b8fff3d",
+    "name": "Luz",
+    "synonyms": [
+      "CFE",
+      "electricidad",
+      "energía eléctrica",
+      "luz"
+    ],
+    "regimes": [
+      "PM"
+    ],
+    "deductible": true,
+    "ivaCreditable": true,
+    "notes": "CFDI requerido; Título II LISR (Personas Morales); contabilidad electrónica completa; políticas y autorizaciones internas."
+  },
+  {
+    "id": "234fc7b3-0950-4574-b6fc-71b24b03eed0",
+    "name": "Teléfono",
+    "synonyms": [
+      "telefonía fija",
+      "telefonía móvil",
+      "teléfono"
+    ],
+    "regimes": [
+      "PM"
+    ],
+    "deductible": true,
+    "ivaCreditable": true,
+    "notes": "CFDI requerido; Título II LISR (Personas Morales); contabilidad electrónica completa; políticas y autorizaciones internas."
+  },
+  {
+    "id": "6dcfa1ea-b25d-4fed-aa08-26197adc204f",
+    "name": "Internet",
+    "synonyms": [
+      "banda ancha",
+      "datos móviles",
+      "internet"
+    ],
+    "regimes": [
+      "PM"
+    ],
+    "deductible": true,
+    "ivaCreditable": true,
+    "notes": "CFDI requerido; Título II LISR (Personas Morales); contabilidad electrónica completa; políticas y autorizaciones internas."
+  },
+  {
+    "id": "f6bc68af-8ff6-4b6b-acaa-b7943a1e4e69",
+    "name": "Papelería",
+    "synonyms": [
+      "consumibles de oficina",
+      "papelería"
+    ],
+    "regimes": [
+      "PM"
+    ],
+    "deductible": true,
+    "ivaCreditable": true,
+    "notes": "CFDI requerido; Título II LISR (Personas Morales); contabilidad electrónica completa; políticas y autorizaciones internas."
+  },
+  {
+    "id": "d13726bb-f629-4ee5-b107-29234a63cf67",
+    "name": "Sueldos",
+    "synonyms": [
+      "nómina",
+      "salarios",
+      "sueldos"
+    ],
+    "regimes": [
+      "PM"
+    ],
+    "deductible": true,
+    "ivaCreditable": false,
+    "notes": "CFDI requerido; Título II LISR (Personas Morales); contabilidad electrónica completa; políticas y autorizaciones internas."
+  },
+  {
+    "id": "05e68f6f-bc3b-448a-841b-a87077afafc2",
+    "name": "IMSS",
+    "synonyms": [
+      "imss",
+      "seguridad social"
+    ],
+    "regimes": [
+      "PM"
+    ],
+    "deductible": true,
+    "ivaCreditable": false,
+    "notes": "CFDI requerido; Título II LISR (Personas Morales); contabilidad electrónica completa; políticas y autorizaciones internas."
+  },
+  {
+    "id": "b36b799f-13a9-4ea0-a56e-3b00fd33e6f9",
+    "name": "SAR",
+    "synonyms": [
+      "ahorro para el retiro",
+      "sar"
+    ],
+    "regimes": [
+      "PM"
+    ],
+    "deductible": true,
+    "ivaCreditable": false,
+    "notes": "CFDI requerido; Título II LISR (Personas Morales); contabilidad electrónica completa; políticas y autorizaciones internas."
+  },
+  {
+    "id": "2fc3a570-9422-41fe-afaa-12a3ef3acca0",
+    "name": "Uniformes",
+    "synonyms": [
+      "ropa de trabajo",
+      "uniformes"
+    ],
+    "regimes": [
+      "PM"
+    ],
+    "deductible": true,
+    "ivaCreditable": true,
+    "notes": "CFDI requerido; Título II LISR (Personas Morales); contabilidad electrónica completa; políticas y autorizaciones internas."
+  },
+  {
+    "id": "d6c6be9e-1c28-4bee-9bcd-24f95d627580",
+    "name": "Comedor",
+    "synonyms": [
+      "comedor",
+      "comedor industrial",
+      "vales de comedor"
+    ],
+    "regimes": [
+      "PM"
+    ],
+    "deductible": true,
+    "ivaCreditable": true,
+    "notes": "CFDI requerido; Título II LISR (Personas Morales); contabilidad electrónica completa; políticas y autorizaciones internas."
+  },
+  {
+    "id": "3cd0a797-9c3a-42bc-8940-658554c4288e",
+    "name": "Gasolina",
+    "synonyms": [
+      "combustible",
+      "diesel",
+      "gasolina"
+    ],
+    "regimes": [
+      "PM"
+    ],
+    "deductible": true,
+    "ivaCreditable": true,
+    "notes": "CFDI requerido; Título II LISR (Personas Morales); contabilidad electrónica completa; políticas y autorizaciones internas."
+  },
+  {
+    "id": "eaf8f7bd-5839-4235-b7c9-67d2b0ca31fb",
+    "name": "Mantenimiento de vehículos",
+    "synonyms": [
+      "mantenimiento de vehículos",
+      "servicio vehicular",
+      "taller"
+    ],
+    "regimes": [
+      "PM"
+    ],
+    "deductible": true,
+    "ivaCreditable": true,
+    "notes": "CFDI requerido; Título II LISR (Personas Morales); contabilidad electrónica completa; políticas y autorizaciones internas."
+  },
+  {
+    "id": "3f71de09-0cd4-4fa9-81f9-104476f57245",
+    "name": "Refacciones",
+    "synonyms": [
+      "autopartes",
+      "refacciones"
+    ],
+    "regimes": [
+      "PM"
+    ],
+    "deductible": true,
+    "ivaCreditable": true,
+    "notes": "CFDI requerido; Título II LISR (Personas Morales); contabilidad electrónica completa; políticas y autorizaciones internas."
+  },
+  {
+    "id": "43c8771d-7655-4cf1-88a3-33d77fa57a20",
+    "name": "Estacionamiento",
+    "synonyms": [
+      "estacionamiento",
+      "parquímetro"
+    ],
+    "regimes": [
+      "PM"
+    ],
+    "deductible": true,
+    "ivaCreditable": true,
+    "notes": "CFDI requerido; Título II LISR (Personas Morales); contabilidad electrónica completa; políticas y autorizaciones internas."
+  },
+  {
+    "id": "794dd695-7170-4859-9cec-d294d364f997",
+    "name": "Casetas",
+    "synonyms": [
+      "casetas",
+      "peaje"
+    ],
+    "regimes": [
+      "PM"
+    ],
+    "deductible": true,
+    "ivaCreditable": false,
+    "notes": "CFDI requerido; Título II LISR (Personas Morales); contabilidad electrónica completa; políticas y autorizaciones internas."
+  },
+  {
+    "id": "300d36b5-e788-43a1-b2cf-713010f0f6cd",
+    "name": "Honorarios contador",
+    "synonyms": [
+      "honorarios contador",
+      "servicios contables"
+    ],
+    "regimes": [
+      "PM"
+    ],
+    "deductible": true,
+    "ivaCreditable": true,
+    "notes": "CFDI requerido; Título II LISR (Personas Morales); contabilidad electrónica completa; políticas y autorizaciones internas."
+  },
+  {
+    "id": "9dc77c3a-864f-4e2c-9963-7eb6391af041",
+    "name": "Honorarios abogado",
+    "synonyms": [
+      "honorarios abogado",
+      "servicios legales"
+    ],
+    "regimes": [
+      "PM"
+    ],
+    "deductible": true,
+    "ivaCreditable": true,
+    "notes": "CFDI requerido; Título II LISR (Personas Morales); contabilidad electrónica completa; políticas y autorizaciones internas."
+  },
+  {
+    "id": "63520c35-e2c1-4121-a005-e09d85e8433c",
+    "name": "Auditoría",
+    "synonyms": [
+      "auditoría",
+      "auditoría externa",
+      "revisión fiscal"
+    ],
+    "regimes": [
+      "PM"
+    ],
+    "deductible": true,
+    "ivaCreditable": true,
+    "notes": "CFDI requerido; Título II LISR (Personas Morales); contabilidad electrónica completa; políticas y autorizaciones internas."
+  },
+  {
+    "id": "48d803b1-7efa-4556-bb7e-51626e18e6d8",
+    "name": "Renta de oficina",
+    "synonyms": [
+      "arrendamiento de oficina",
+      "renta de oficina",
+      "renta local"
+    ],
+    "regimes": [
+      "PM"
+    ],
+    "deductible": true,
+    "ivaCreditable": true,
+    "notes": "CFDI requerido; Título II LISR (Personas Morales); contabilidad electrónica completa; políticas y autorizaciones internas."
+  },
+  {
+    "id": "957a1cfd-e717-4642-a616-8f2fe7629458",
+    "name": "Mantenimiento de inmueble",
+    "synonyms": [
+      "conservación inmueble",
+      "mantenimiento de inmueble"
+    ],
+    "regimes": [
+      "PM"
+    ],
+    "deductible": true,
+    "ivaCreditable": true,
+    "notes": "CFDI requerido; Título II LISR (Personas Morales); contabilidad electrónica completa; políticas y autorizaciones internas."
+  },
+  {
+    "id": "0238daff-79a1-43eb-a611-c4aa7f7e0197",
+    "name": "Reparaciones de inmueble",
+    "synonyms": [
+      "reparaciones",
+      "reparaciones de inmueble"
+    ],
+    "regimes": [
+      "PM"
+    ],
+    "deductible": true,
+    "ivaCreditable": true,
+    "notes": "CFDI requerido; Título II LISR (Personas Morales); contabilidad electrónica completa; políticas y autorizaciones internas."
+  },
+  {
+    "id": "22633cd2-96c3-40b4-b167-8b7f9ceb4295",
+    "name": "Hardware",
+    "synonyms": [
+      "equipo de cómputo",
+      "hardware"
+    ],
+    "regimes": [
+      "PM"
+    ],
+    "deductible": true,
+    "ivaCreditable": true,
+    "notes": "CFDI requerido; Título II LISR (Personas Morales); contabilidad electrónica completa; políticas y autorizaciones internas."
+  },
+  {
+    "id": "ed3c7e29-1fa4-47cd-8882-bdb858b6914f",
+    "name": "Hosting",
+    "synonyms": [
+      "cloud",
+      "hosting",
+      "servidor"
+    ],
+    "regimes": [
+      "PM"
+    ],
+    "deductible": true,
+    "ivaCreditable": true,
+    "notes": "CFDI requerido; Título II LISR (Personas Morales); contabilidad electrónica completa; políticas y autorizaciones internas."
+  },
+  {
+    "id": "0409679b-6f73-4296-b805-17f404558617",
+    "name": "Dominios",
+    "synonyms": [
+      "dominio web",
+      "dominios"
+    ],
+    "regimes": [
+      "PM"
+    ],
+    "deductible": true,
+    "ivaCreditable": true,
+    "notes": "CFDI requerido; Título II LISR (Personas Morales); contabilidad electrónica completa; políticas y autorizaciones internas."
+  },
+  {
+    "id": "cde7e15a-43be-4832-b08d-6a745ce79ea2",
+    "name": "Licencias",
+    "synonyms": [
+      "licencia de software",
+      "licencias"
+    ],
+    "regimes": [
+      "PM"
+    ],
+    "deductible": true,
+    "ivaCreditable": true,
+    "notes": "CFDI requerido; Título II LISR (Personas Morales); contabilidad electrónica completa; políticas y autorizaciones internas."
+  },
+  {
+    "id": "90867473-8419-430b-afcd-e9ec6e081d9d",
+    "name": "Restaurante - Insumos",
+    "synonyms": [
+      "alimentos e insumos",
+      "restaurante - insumos"
+    ],
+    "regimes": [
+      "PM"
+    ],
+    "deductible": true,
+    "ivaCreditable": false,
+    "notes": "CFDI requerido; Título II LISR (Personas Morales); contabilidad electrónica completa; políticas y autorizaciones internas."
+  },
+  {
+    "id": "d176af70-3fc5-436a-a131-eb74eb2ce7c6",
+    "name": "Restaurante - Menaje",
+    "synonyms": [
+      "menaje de cocina",
+      "restaurante - menaje",
+      "utensilios"
+    ],
+    "regimes": [
+      "PM"
+    ],
+    "deductible": true,
+    "ivaCreditable": true,
+    "notes": "CFDI requerido; Título II LISR (Personas Morales); contabilidad electrónica completa; políticas y autorizaciones internas."
+  },
+  {
+    "id": "1791a252-ddf3-4e03-bad1-47ddf7e9da08",
+    "name": "Construcción - Materiales",
+    "synonyms": [
+      "acero",
+      "cemento",
+      "construcción - materiales",
+      "varilla"
+    ],
+    "regimes": [
+      "PM"
+    ],
+    "deductible": true,
+    "ivaCreditable": true,
+    "notes": "CFDI requerido; Título II LISR (Personas Morales); contabilidad electrónica completa; políticas y autorizaciones internas."
+  },
+  {
+    "id": "6f213f6f-7411-4a8c-999a-25ace7e98898",
+    "name": "Construcción - Maquinaria",
+    "synonyms": [
+      "andamios",
+      "construcción - maquinaria",
+      "retroexcavadora"
+    ],
+    "regimes": [
+      "PM"
+    ],
+    "deductible": true,
+    "ivaCreditable": true,
+    "notes": "CFDI requerido; Título II LISR (Personas Morales); contabilidad electrónica completa; políticas y autorizaciones internas."
+  },
+  {
+    "id": "33e41631-5220-4cd6-8381-11e83a5fa5cd",
+    "name": "Salud - Instrumental",
+    "synonyms": [
+      "instrumental médico",
+      "salud - instrumental"
+    ],
+    "regimes": [
+      "PM"
+    ],
+    "deductible": true,
+    "ivaCreditable": true,
+    "notes": "CFDI requerido; Título II LISR (Personas Morales); contabilidad electrónica completa; políticas y autorizaciones internas."
+  },
+  {
+    "id": "bb518a23-1d05-419f-bc53-cae169d5ce30",
+    "name": "Salud - Medicamentos",
+    "synonyms": [
+      "medicamentos",
+      "salud - medicamentos"
+    ],
+    "regimes": [
+      "PM"
+    ],
+    "deductible": true,
+    "ivaCreditable": false,
+    "notes": "CFDI requerido; Título II LISR (Personas Morales); contabilidad electrónica completa; políticas y autorizaciones internas."
+  },
+  {
+    "id": "ecc8875d-84f1-4adb-aed5-2b7c5134aa23",
+    "name": "Retail - Inventario",
+    "synonyms": [
+      "mercancía",
+      "retail - inventario",
+      "stock"
+    ],
+    "regimes": [
+      "PM"
+    ],
+    "deductible": true,
+    "ivaCreditable": false,
+    "notes": "CFDI requerido; Título II LISR (Personas Morales); contabilidad electrónica completa; políticas y autorizaciones internas."
+  },
+  {
+    "id": "aee74392-b6ad-4b25-b621-eab2edff1904",
+    "name": "Retail - Punto de venta",
+    "synonyms": [
+      "POS",
+      "retail - punto de venta",
+      "terminal"
+    ],
+    "regimes": [
+      "PM"
+    ],
+    "deductible": true,
+    "ivaCreditable": true,
+    "notes": "CFDI requerido; Título II LISR (Personas Morales); contabilidad electrónica completa; políticas y autorizaciones internas."
+  },
+  {
+    "id": "8b50cfce-ea05-43fa-9598-45d68c10e50b",
+    "name": "Multas",
+    "synonyms": [
+      "multas",
+      "multas y sanciones"
+    ],
+    "regimes": [
+      "PM"
+    ],
+    "deductible": false,
+    "ivaCreditable": false,
+    "notes": "No deducible por LISR; fuera de política o sin vinculación con la actividad."
+  },
+  {
+    "id": "67fbf4ca-8f97-4cce-9566-4cb28d36b050",
+    "name": "Recargos",
+    "synonyms": [
+      "recargos",
+      "recargos por mora"
+    ],
+    "regimes": [
+      "PM"
+    ],
+    "deductible": false,
+    "ivaCreditable": false,
+    "notes": "No deducible por LISR; fuera de política o sin vinculación con la actividad."
+  },
+  {
+    "id": "126213a1-4d11-478c-90dc-a0060482971c",
+    "name": "Regalos >$500 pesos",
+    "synonyms": [
+      "obsequios suntuarios",
+      "regalos >$500 pesos"
+    ],
+    "regimes": [
+      "PM"
+    ],
+    "deductible": false,
+    "ivaCreditable": false,
+    "notes": "No deducible por LISR; fuera de política o sin vinculación con la actividad."
+  },
+  {
+    "id": "7cb0b120-720e-451b-80b6-389fff02868e",
+    "name": "ISR propio",
+    "synonyms": [
+      "impuesto sobre la renta propio",
+      "isr propio"
+    ],
+    "regimes": [
+      "PM"
+    ],
+    "deductible": false,
+    "ivaCreditable": false,
+    "notes": "No deducible por LISR; fuera de política o sin vinculación con la actividad."
   }
 ]
