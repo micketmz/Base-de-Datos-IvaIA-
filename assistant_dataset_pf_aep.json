@@ -1,0 +1,867 @@
+[
+  {
+    "id": "fcc58f37-f6ad-4aeb-be89-3d05d1f26aa7",
+    "name": "Gasolina y diesel",
+    "synonyms": [
+      "combustible",
+      "gasolina",
+      "diesel"
+    ],
+    "regimes": [
+      "AE",
+      "AEyP",
+      "Servicios Profesionales",
+      "Arrendamiento"
+    ],
+    "deductible": true,
+    "ivaCreditable": true,
+    "notes": "CFDI con método válido; control de consumo; evitar uso personal. Límite ingresos RESICO $3.5M; Art. 113-J LISR."
+  },
+  {
+    "id": "919ab8e8-49cd-474f-9386-634f96a241fb",
+    "name": "Energía eléctrica",
+    "synonyms": [
+      "luz",
+      "electricidad",
+      "CFE"
+    ],
+    "regimes": [
+      "AE",
+      "AEyP",
+      "Servicios Profesionales",
+      "Arrendamiento"
+    ],
+    "deductible": true,
+    "ivaCreditable": true,
+    "notes": "CFDI requerido; contrato a nombre del contribuyente; uso del local/actividad."
+  },
+  {
+    "id": "c1aaf93a-362f-4bc2-b3eb-32d19ab049df",
+    "name": "Agua",
+    "synonyms": [
+      "servicio de agua",
+      "agua potable"
+    ],
+    "regimes": [
+      "AE",
+      "AEyP",
+      "Servicios Profesionales",
+      "Arrendamiento"
+    ],
+    "deductible": true,
+    "ivaCreditable": true,
+    "notes": "CFDI; sólo por consumos del negocio."
+  },
+  {
+    "id": "3792c871-559f-472e-8fd8-52d20fe9ce58",
+    "name": "Gas natural",
+    "synonyms": [
+      "gas",
+      "gas LP"
+    ],
+    "regimes": [
+      "AE",
+      "AEyP",
+      "Servicios Profesionales",
+      "Arrendamiento"
+    ],
+    "deductible": true,
+    "ivaCreditable": true,
+    "notes": "CFDI; deducible si se usa en la actividad."
+  },
+  {
+    "id": "eb01176e-cb5c-45ce-875a-31112cd69113",
+    "name": "Telefonía e internet",
+    "synonyms": [
+      "teléfono",
+      "internet",
+      "datos móviles"
+    ],
+    "regimes": [
+      "AE",
+      "AEyP",
+      "Servicios Profesionales",
+      "Arrendamiento"
+    ],
+    "deductible": true,
+    "ivaCreditable": true,
+    "notes": "CFDI; prorrateo si hay uso mixto hogar/negocio."
+  },
+  {
+    "id": "7e573a81-f29f-4053-8785-e3d14ef729c4",
+    "name": "Renta de oficina/local",
+    "synonyms": [
+      "arrendamiento",
+      "alquiler"
+    ],
+    "regimes": [
+      "AE",
+      "AEyP",
+      "Servicios Profesionales",
+      "Arrendamiento"
+    ],
+    "deductible": true,
+    "ivaCreditable": true,
+    "notes": "Contrato + CFDI del arrendador con RFC válido; retenciones si aplica."
+  },
+  {
+    "id": "e238d9fc-746a-4882-b16b-09a146bb991e",
+    "name": "Papelería y consumibles",
+    "synonyms": [
+      "papelería",
+      "consumibles"
+    ],
+    "regimes": [
+      "AE",
+      "AEyP",
+      "Servicios Profesionales",
+      "Arrendamiento"
+    ],
+    "deductible": true,
+    "ivaCreditable": true,
+    "notes": "CFDI; relación con la actividad."
+  },
+  {
+    "id": "65c0a0da-4820-47c4-900e-b662f96600c9",
+    "name": "Mantenimiento de equipo",
+    "synonyms": [
+      "mantenimiento",
+      "servicio técnico"
+    ],
+    "regimes": [
+      "AE",
+      "AEyP",
+      "Servicios Profesionales",
+      "Arrendamiento"
+    ],
+    "deductible": true,
+    "ivaCreditable": true,
+    "notes": "CFDI; evidencia del activo atendido."
+  },
+  {
+    "id": "44d28054-79fc-4478-bdcc-058cd98f658c",
+    "name": "Limpieza",
+    "synonyms": [
+      "insumos de limpieza",
+      "servicio de limpieza"
+    ],
+    "regimes": [
+      "AE",
+      "AEyP",
+      "Servicios Profesionales",
+      "Arrendamiento"
+    ],
+    "deductible": true,
+    "ivaCreditable": true,
+    "notes": "CFDI; deducible si el local es de negocio."
+  },
+  {
+    "id": "e40407f0-886a-4499-8520-8e352c04f185",
+    "name": "Seguridad",
+    "synonyms": [
+      "cámaras",
+      "alarmas",
+      "vigilancia"
+    ],
+    "regimes": [
+      "AE",
+      "AEyP",
+      "Servicios Profesionales",
+      "Arrendamiento"
+    ],
+    "deductible": true,
+    "ivaCreditable": true,
+    "notes": "CFDI; servicios o equipos para el negocio."
+  },
+  {
+    "id": "21311b13-d4aa-4b33-bbd8-84dc992816c9",
+    "name": "Equipo de cómputo",
+    "synonyms": [
+      "laptop",
+      "desktop",
+      "tablet"
+    ],
+    "regimes": [
+      "AE",
+      "AEyP",
+      "Servicios Profesionales",
+      "Arrendamiento"
+    ],
+    "deductible": true,
+    "ivaCreditable": true,
+    "notes": "CFDI; activos con depreciación si exceden umbrales; control de inventario."
+  },
+  {
+    "id": "9f3068cc-e9e1-42d3-a2f0-7898e24317c0",
+    "name": "Mobiliario de oficina",
+    "synonyms": [
+      "escritorio",
+      "silla",
+      "archivero"
+    ],
+    "regimes": [
+      "AE",
+      "AEyP",
+      "Servicios Profesionales",
+      "Arrendamiento"
+    ],
+    "deductible": true,
+    "ivaCreditable": true,
+    "notes": "CFDI; activos; aplicar reglas de inversión."
+  },
+  {
+    "id": "10b8557d-72fc-45c1-bb13-ca810f112669",
+    "name": "Herramientas",
+    "synonyms": [
+      "herramienta",
+      "equipo manual"
+    ],
+    "regimes": [
+      "AE",
+      "AEyP",
+      "Servicios Profesionales",
+      "Arrendamiento"
+    ],
+    "deductible": true,
+    "ivaCreditable": true,
+    "notes": "CFDI; necesarias para la actividad."
+  },
+  {
+    "id": "8fa5550d-0f25-4916-bf33-101ee6ce280b",
+    "name": "Maquinaria",
+    "synonyms": [
+      "maquinaria ligera"
+    ],
+    "regimes": [
+      "AE",
+      "AEyP",
+      "Servicios Profesionales",
+      "Arrendamiento"
+    ],
+    "deductible": true,
+    "ivaCreditable": true,
+    "notes": "CFDI; activos; límites de inversión RESICO."
+  },
+  {
+    "id": "bfef22e3-3097-4f3e-bd00-0a95103964cc",
+    "name": "Vehículos (uso empresarial)",
+    "synonyms": [
+      "auto de trabajo",
+      "vehículo utilitario"
+    ],
+    "regimes": [
+      "AE",
+      "AEyP",
+      "Servicios Profesionales",
+      "Arrendamiento"
+    ],
+    "deductible": true,
+    "ivaCreditable": true,
+    "notes": "CFDI; límites específicos RESICO; bitácora de uso."
+  },
+  {
+    "id": "0e0a76b4-cfaa-4c3d-bc5e-e8b36af3d697",
+    "name": "Honorarios de contador",
+    "synonyms": [
+      "servicios contables"
+    ],
+    "regimes": [
+      "AE",
+      "AEyP",
+      "Servicios Profesionales",
+      "Arrendamiento"
+    ],
+    "deductible": true,
+    "ivaCreditable": true,
+    "notes": "CFDI; relación directa con obligaciones fiscales."
+  },
+  {
+    "id": "c8460a8c-8d5a-4af7-892d-2f01b27575b5",
+    "name": "Servicios legales",
+    "synonyms": [
+      "abogado",
+      "asesoría legal"
+    ],
+    "regimes": [
+      "AE",
+      "AEyP",
+      "Servicios Profesionales",
+      "Arrendamiento"
+    ],
+    "deductible": true,
+    "ivaCreditable": true,
+    "notes": "CFDI; vinculados a la actividad."
+  },
+  {
+    "id": "f89287ad-bcce-4977-ab7d-d17d3d8b5565",
+    "name": "Consultoría",
+    "synonyms": [
+      "asesoría",
+      "consultoría de negocio"
+    ],
+    "regimes": [
+      "AE",
+      "AEyP",
+      "Servicios Profesionales",
+      "Arrendamiento"
+    ],
+    "deductible": true,
+    "ivaCreditable": true,
+    "notes": "CFDI; justificar relación negocio."
+  },
+  {
+    "id": "033d08e4-1999-4e41-b3c4-69ab0b114f33",
+    "name": "Capacitación",
+    "synonyms": [
+      "cursos",
+      "talleres"
+    ],
+    "regimes": [
+      "AE",
+      "AEyP",
+      "Servicios Profesionales",
+      "Arrendamiento"
+    ],
+    "deductible": true,
+    "ivaCreditable": true,
+    "notes": "CFDI; relacionada con la actividad."
+  },
+  {
+    "id": "aa60ef16-18be-4ec8-ae97-78555cc6ee89",
+    "name": "Software",
+    "synonyms": [
+      "suscripciones",
+      "licencias"
+    ],
+    "regimes": [
+      "AE",
+      "AEyP",
+      "Servicios Profesionales",
+      "Arrendamiento"
+    ],
+    "deductible": true,
+    "ivaCreditable": true,
+    "notes": "CFDI; licencias y suscripciones de software."
+  },
+  {
+    "id": "6d33c9e0-3861-4895-aa7e-932030db2e79",
+    "name": "Hosting y dominios",
+    "synonyms": [
+      "hosting",
+      "dominio"
+    ],
+    "regimes": [
+      "AE",
+      "AEyP",
+      "Servicios Profesionales",
+      "Arrendamiento"
+    ],
+    "deductible": true,
+    "ivaCreditable": true,
+    "notes": "CFDI; servicios en la nube."
+  },
+  {
+    "id": "ac5c9113-c04b-4fe3-bb8c-aef9f1888d44",
+    "name": "Servicios en la nube",
+    "synonyms": [
+      "cloud",
+      "SaaS",
+      "IaaS"
+    ],
+    "regimes": [
+      "AE",
+      "AEyP",
+      "Servicios Profesionales",
+      "Arrendamiento"
+    ],
+    "deductible": true,
+    "ivaCreditable": true,
+    "notes": "CFDI; necesarias para operación."
+  },
+  {
+    "id": "e812d171-c24d-43cf-86da-8d9ebf9c0e09",
+    "name": "Publicidad",
+    "synonyms": [
+      "ads",
+      "anuncios"
+    ],
+    "regimes": [
+      "AE",
+      "AEyP",
+      "Servicios Profesionales",
+      "Arrendamiento"
+    ],
+    "deductible": true,
+    "ivaCreditable": true,
+    "notes": "CFDI; medios digitales o tradicionales."
+  },
+  {
+    "id": "acf701ef-f60e-4e8a-b0c3-f6c61e9afbbf",
+    "name": "Marketing digital",
+    "synonyms": [
+      "redes sociales",
+      "campañas"
+    ],
+    "regimes": [
+      "AE",
+      "AEyP",
+      "Servicios Profesionales",
+      "Arrendamiento"
+    ],
+    "deductible": true,
+    "ivaCreditable": true,
+    "notes": "CFDI; rendimiento medible recomendado."
+  },
+  {
+    "id": "78dae23c-7593-4a6c-b5a3-1df119f2a078",
+    "name": "Material promocional",
+    "synonyms": [
+      "volantes",
+      "lonas"
+    ],
+    "regimes": [
+      "AE",
+      "AEyP",
+      "Servicios Profesionales",
+      "Arrendamiento"
+    ],
+    "deductible": true,
+    "ivaCreditable": true,
+    "notes": "CFDI; vinculado a promoción de actividad."
+  },
+  {
+    "id": "babd3943-676a-483a-b1a4-e7ae9245e2a3",
+    "name": "Comisiones",
+    "synonyms": [
+      "comisiones bancarias",
+      "pasarela de pago"
+    ],
+    "regimes": [
+      "AE",
+      "AEyP",
+      "Servicios Profesionales",
+      "Arrendamiento"
+    ],
+    "deductible": true,
+    "ivaCreditable": false,
+    "notes": "CFDI o estados de cuenta; IVA no siempre acreditable en servicios financieros."
+  },
+  {
+    "id": "91db288c-f929-4446-a7a7-ba97d075fe9d",
+    "name": "Salarios",
+    "synonyms": [
+      "nómina"
+    ],
+    "regimes": [
+      "AE",
+      "AEyP",
+      "Servicios Profesionales",
+      "Arrendamiento"
+    ],
+    "deductible": true,
+    "ivaCreditable": false,
+    "notes": "Aplica si existe relación laboral; CFDI de nómina; IMSS/INFONAVIT."
+  },
+  {
+    "id": "74182311-8980-49a7-8a34-93a9ac878311",
+    "name": "Prestaciones",
+    "synonyms": [
+      "vales",
+      "bonos"
+    ],
+    "regimes": [
+      "AE",
+      "AEyP",
+      "Servicios Profesionales",
+      "Arrendamiento"
+    ],
+    "deductible": true,
+    "ivaCreditable": false,
+    "notes": "Conforme a LFT y CFDI de nómina."
+  },
+  {
+    "id": "353c3ff6-848c-43e0-98f3-79ef9d723a99",
+    "name": "IMSS e Infonavit",
+    "synonyms": [
+      "seguridad social"
+    ],
+    "regimes": [
+      "AE",
+      "AEyP",
+      "Servicios Profesionales",
+      "Arrendamiento"
+    ],
+    "deductible": true,
+    "ivaCreditable": false,
+    "notes": "Cuotas obligatorias; no acreditan IVA."
+  },
+  {
+    "id": "d3094107-5522-4b39-9d3f-a3f63dab1b8b",
+    "name": "Gastos personales",
+    "synonyms": [
+      "uso personal"
+    ],
+    "regimes": [
+      "AE",
+      "AEyP",
+      "Servicios Profesionales",
+      "Arrendamiento"
+    ],
+    "deductible": false,
+    "ivaCreditable": false,
+    "notes": "No deducible. Gasto no relacionado con la actividad."
+  },
+  {
+    "id": "236fe1f3-ffd2-4faa-b671-96de498badc8",
+    "name": "Multas y recargos",
+    "synonyms": [
+      "multas"
+    ],
+    "regimes": [
+      "AE",
+      "AEyP",
+      "Servicios Profesionales",
+      "Arrendamiento"
+    ],
+    "deductible": false,
+    "ivaCreditable": false,
+    "notes": "No deducible por LISR."
+  },
+  {
+    "id": "c1b9a861-88f3-4a72-ac0c-052fb99cf6a3",
+    "name": "Donativos no autorizados",
+    "synonyms": [
+      "donativos"
+    ],
+    "regimes": [
+      "AE",
+      "AEyP",
+      "Servicios Profesionales",
+      "Arrendamiento"
+    ],
+    "deductible": false,
+    "ivaCreditable": false,
+    "notes": "No deducibles si la donataria no es autorizada."
+  },
+  {
+    "id": "9ed01f19-e28c-470f-aee7-a51a8fe5374d",
+    "name": "Inversiones mayores",
+    "synonyms": [
+      "activos mayores"
+    ],
+    "regimes": [
+      "AE",
+      "AEyP",
+      "Servicios Profesionales",
+      "Arrendamiento"
+    ],
+    "deductible": true,
+    "ivaCreditable": true,
+    "notes": "CFDI; deducción vía depreciación acelerada si procede; Art. 103-115 LISR."
+  },
+  {
+    "id": "99b392b0-ea3c-4ffe-be53-ad97377ae9ed",
+    "name": "Vehículos sin límite $175k (si procede)",
+    "synonyms": [
+      "vehículo sin tope"
+    ],
+    "regimes": [
+      "AE",
+      "AEyP",
+      "Servicios Profesionales",
+      "Arrendamiento"
+    ],
+    "deductible": true,
+    "ivaCreditable": true,
+    "notes": "Sujeto a requisitos específicos AE/AEyP; bitácora uso; restricciones RESICO no aplican igual."
+  },
+  {
+    "id": "1e8ee568-c5a5-4203-9db6-be48e0be1966",
+    "name": "Gastos de representación",
+    "synonyms": [
+      "representación"
+    ],
+    "regimes": [
+      "AE",
+      "AEyP",
+      "Servicios Profesionales",
+      "Arrendamiento"
+    ],
+    "deductible": true,
+    "ivaCreditable": true,
+    "notes": "CFDI; límites y comprobación estricta."
+  },
+  {
+    "id": "37c4ecf2-d5fd-4ee3-b5a7-6dffb6f911a7",
+    "name": "Viáticos completos",
+    "synonyms": [
+      "viáticos"
+    ],
+    "regimes": [
+      "AE",
+      "AEyP",
+      "Servicios Profesionales",
+      "Arrendamiento"
+    ],
+    "deductible": true,
+    "ivaCreditable": true,
+    "notes": "CFDI + documentación soporte; reglas de viaje."
+  },
+  {
+    "id": "b74df6a9-1d16-4565-86a4-8e8574530a93",
+    "name": "Depreciación acelerada",
+    "synonyms": [
+      "depreciación"
+    ],
+    "regimes": [
+      "AE",
+      "AEyP",
+      "Servicios Profesionales",
+      "Arrendamiento"
+    ],
+    "deductible": true,
+    "ivaCreditable": false,
+    "notes": "No IVA; contable-fiscal según LISR."
+  },
+  {
+    "id": "1e9c5d47-a0dc-4084-a1f6-91a7e523b086",
+    "name": "Equipos especializados",
+    "synonyms": [
+      "equipo profesional"
+    ],
+    "regimes": [
+      "AE",
+      "AEyP",
+      "Servicios Profesionales",
+      "Arrendamiento"
+    ],
+    "deductible": true,
+    "ivaCreditable": true,
+    "notes": "CFDI; por profesión (médico, arquitecto, etc.)."
+  },
+  {
+    "id": "539001e4-a67e-4cb9-84b5-e04146d67f36",
+    "name": "Colegíaturas profesionales",
+    "synonyms": [
+      "colegiaturas"
+    ],
+    "regimes": [
+      "AE",
+      "AEyP",
+      "Servicios Profesionales",
+      "Arrendamiento"
+    ],
+    "deductible": true,
+    "ivaCreditable": false,
+    "notes": "Deducible ISR con requisitos; IVA usualmente no acreditable."
+  },
+  {
+    "id": "2f02877c-48a9-4731-a9f6-6314a65881c6",
+    "name": "Seguro de responsabilidad civil",
+    "synonyms": [
+      "RC profesional"
+    ],
+    "regimes": [
+      "AE",
+      "AEyP",
+      "Servicios Profesionales",
+      "Arrendamiento"
+    ],
+    "deductible": true,
+    "ivaCreditable": true,
+    "notes": "CFDI; pólizas para actividad profesional."
+  },
+  {
+    "id": "7643c3ea-25b1-42de-8a4e-ddeb9ae288f8",
+    "name": "Materiales por profesión",
+    "synonyms": [
+      "material médico",
+      "material arquitecto"
+    ],
+    "regimes": [
+      "AE",
+      "AEyP",
+      "Servicios Profesionales",
+      "Arrendamiento"
+    ],
+    "deductible": true,
+    "ivaCreditable": true,
+    "notes": "CFDI; insumos específicos."
+  },
+  {
+    "id": "9c940687-ea93-4cb0-961f-a1b38693f622",
+    "name": "Mantenimiento de inmuebles (arrendamiento)",
+    "synonyms": [
+      "mantenimiento inmueble"
+    ],
+    "regimes": [
+      "AE",
+      "AEyP",
+      "Servicios Profesionales",
+      "Arrendamiento"
+    ],
+    "deductible": true,
+    "ivaCreditable": true,
+    "notes": "CFDI; gasto de conservación del inmueble arrendado."
+  },
+  {
+    "id": "7d24d855-a198-4ccc-b556-94e7aa6042c1",
+    "name": "Predial",
+    "synonyms": [
+      "impuesto predial"
+    ],
+    "regimes": [
+      "AE",
+      "AEyP",
+      "Servicios Profesionales",
+      "Arrendamiento"
+    ],
+    "deductible": true,
+    "ivaCreditable": false,
+    "notes": "Impuesto local; sin IVA acreditable."
+  },
+  {
+    "id": "3be32079-34e4-435c-bad1-9119d1425ffa",
+    "name": "Seguros de inmuebles",
+    "synonyms": [
+      "seguro inmueble"
+    ],
+    "regimes": [
+      "AE",
+      "AEyP",
+      "Servicios Profesionales",
+      "Arrendamiento"
+    ],
+    "deductible": true,
+    "ivaCreditable": true,
+    "notes": "CFDI; vinculado a inmuebles arrendados."
+  },
+  {
+    "id": "d78713c5-5dc6-417e-a945-1f0a1e59c5a8",
+    "name": "Administración de propiedades",
+    "synonyms": [
+      "property management"
+    ],
+    "regimes": [
+      "AE",
+      "AEyP",
+      "Servicios Profesionales",
+      "Arrendamiento"
+    ],
+    "deductible": true,
+    "ivaCreditable": true,
+    "notes": "CFDI; honorarios administración."
+  },
+  {
+    "id": "7ed78731-c1fe-47e9-a8ef-e976b4a5b009",
+    "name": "Inventarios",
+    "synonyms": [
+      "existencias"
+    ],
+    "regimes": [
+      "AE",
+      "AEyP",
+      "Servicios Profesionales",
+      "Arrendamiento"
+    ],
+    "deductible": true,
+    "ivaCreditable": false,
+    "notes": "Acumulación contable; IVA según proveedor y pago."
+  },
+  {
+    "id": "e824ee83-e5f8-4978-84a1-44b93cc845e6",
+    "name": "Merma y obsolescencia",
+    "synonyms": [
+      "mermas"
+    ],
+    "regimes": [
+      "AE",
+      "AEyP",
+      "Servicios Profesionales",
+      "Arrendamiento"
+    ],
+    "deductible": true,
+    "ivaCreditable": false,
+    "notes": "Procedimientos documentados."
+  },
+  {
+    "id": "16f7697b-4eff-4bfe-b592-9557fcdf3df9",
+    "name": "Devoluciones",
+    "synonyms": [
+      "devolución sobre ventas"
+    ],
+    "regimes": [
+      "AE",
+      "AEyP",
+      "Servicios Profesionales",
+      "Arrendamiento"
+    ],
+    "deductible": true,
+    "ivaCreditable": false,
+    "notes": "Ajuste contable/fiscal conforme CFDI."
+  },
+  {
+    "id": "78133001-a8d9-443f-a4f7-095a04cffb0c",
+    "name": "Costo de ventas",
+    "synonyms": [
+      "COGS"
+    ],
+    "regimes": [
+      "AE",
+      "AEyP",
+      "Servicios Profesionales",
+      "Arrendamiento"
+    ],
+    "deductible": true,
+    "ivaCreditable": false,
+    "notes": "Deducción básica de actividad empresarial."
+  },
+  {
+    "id": "2ee61f26-e142-4032-830c-6c5bac572d6e",
+    "name": "Previsión social",
+    "synonyms": [
+      "prestaciones"
+    ],
+    "regimes": [
+      "AE",
+      "AEyP",
+      "Servicios Profesionales",
+      "Arrendamiento"
+    ],
+    "deductible": true,
+    "ivaCreditable": false,
+    "notes": "Reglas específicas LISR."
+  },
+  {
+    "id": "af0f8d2e-45b7-4c4c-a7c6-7e1d05d918ef",
+    "name": "Fondos de pensiones",
+    "synonyms": [
+      "pensión privada"
+    ],
+    "regimes": [
+      "AE",
+      "AEyP",
+      "Servicios Profesionales",
+      "Arrendamiento"
+    ],
+    "deductible": true,
+    "ivaCreditable": false,
+    "notes": "Reglas y límites LISR."
+  },
+  {
+    "id": "507f17aa-ea81-414a-874b-0c7429e552ba",
+    "name": "Seguros de gastos médicos",
+    "synonyms": [
+      "GMM"
+    ],
+    "regimes": [
+      "AE",
+      "AEyP",
+      "Servicios Profesionales",
+      "Arrendamiento"
+    ],
+    "deductible": true,
+    "ivaCreditable": false,
+    "notes": "Póliza y CFDI; sin IVA acreditable."
+  }
+]

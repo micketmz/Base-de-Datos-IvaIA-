@@ -1,0 +1,1049 @@
+[
+  {
+    "id": "bca40c38-afb7-4440-98e6-9d8603e30e0e",
+    "name": "Gasolina y diesel",
+    "synonyms": [
+      "combustible",
+      "gasolina",
+      "diesel"
+    ],
+    "regimes": [
+      "PM"
+    ],
+    "deductible": true,
+    "ivaCreditable": true,
+    "notes": "CFDI con método válido; control de consumo; evitar uso personal. Límite ingresos RESICO $3.5M; Art. 113-J LISR."
+  },
+  {
+    "id": "b9b188e3-a5bd-4e15-bd8b-c580814fb6e8",
+    "name": "Energía eléctrica",
+    "synonyms": [
+      "luz",
+      "electricidad",
+      "CFE"
+    ],
+    "regimes": [
+      "PM"
+    ],
+    "deductible": true,
+    "ivaCreditable": true,
+    "notes": "CFDI requerido; contrato a nombre del contribuyente; uso del local/actividad."
+  },
+  {
+    "id": "cf210b84-8969-45fd-be47-e7534541dc0f",
+    "name": "Agua",
+    "synonyms": [
+      "servicio de agua",
+      "agua potable"
+    ],
+    "regimes": [
+      "PM"
+    ],
+    "deductible": true,
+    "ivaCreditable": true,
+    "notes": "CFDI; sólo por consumos del negocio."
+  },
+  {
+    "id": "2b55487f-f25f-474f-a81a-4916fbf5a3dc",
+    "name": "Gas natural",
+    "synonyms": [
+      "gas",
+      "gas LP"
+    ],
+    "regimes": [
+      "PM"
+    ],
+    "deductible": true,
+    "ivaCreditable": true,
+    "notes": "CFDI; deducible si se usa en la actividad."
+  },
+  {
+    "id": "f4e702d1-2f37-49e7-b44b-8b2de4d6d451",
+    "name": "Telefonía e internet",
+    "synonyms": [
+      "teléfono",
+      "internet",
+      "datos móviles"
+    ],
+    "regimes": [
+      "PM"
+    ],
+    "deductible": true,
+    "ivaCreditable": true,
+    "notes": "CFDI; prorrateo si hay uso mixto hogar/negocio."
+  },
+  {
+    "id": "6ad9d933-6be0-4ad7-b0e3-3409e6283e99",
+    "name": "Renta de oficina/local",
+    "synonyms": [
+      "arrendamiento",
+      "alquiler"
+    ],
+    "regimes": [
+      "PM"
+    ],
+    "deductible": true,
+    "ivaCreditable": true,
+    "notes": "Contrato + CFDI del arrendador con RFC válido; retenciones si aplica."
+  },
+  {
+    "id": "dffc463d-2a03-452e-a7dd-6d2cff315bb9",
+    "name": "Papelería y consumibles",
+    "synonyms": [
+      "papelería",
+      "consumibles"
+    ],
+    "regimes": [
+      "PM"
+    ],
+    "deductible": true,
+    "ivaCreditable": true,
+    "notes": "CFDI; relación con la actividad."
+  },
+  {
+    "id": "d07e4e7c-2050-44df-a90b-155772a2843c",
+    "name": "Mantenimiento de equipo",
+    "synonyms": [
+      "mantenimiento",
+      "servicio técnico"
+    ],
+    "regimes": [
+      "PM"
+    ],
+    "deductible": true,
+    "ivaCreditable": true,
+    "notes": "CFDI; evidencia del activo atendido."
+  },
+  {
+    "id": "fa03c42d-036d-4abe-b3d0-6dd9ef910287",
+    "name": "Limpieza",
+    "synonyms": [
+      "insumos de limpieza",
+      "servicio de limpieza"
+    ],
+    "regimes": [
+      "PM"
+    ],
+    "deductible": true,
+    "ivaCreditable": true,
+    "notes": "CFDI; deducible si el local es de negocio."
+  },
+  {
+    "id": "49bcf355-9615-496e-bac4-319db6098522",
+    "name": "Seguridad",
+    "synonyms": [
+      "cámaras",
+      "alarmas",
+      "vigilancia"
+    ],
+    "regimes": [
+      "PM"
+    ],
+    "deductible": true,
+    "ivaCreditable": true,
+    "notes": "CFDI; servicios o equipos para el negocio."
+  },
+  {
+    "id": "04a564fd-c01f-466c-9912-5286169dca88",
+    "name": "Equipo de cómputo",
+    "synonyms": [
+      "laptop",
+      "desktop",
+      "tablet"
+    ],
+    "regimes": [
+      "PM"
+    ],
+    "deductible": true,
+    "ivaCreditable": true,
+    "notes": "CFDI; activos con depreciación si exceden umbrales; control de inventario."
+  },
+  {
+    "id": "c1eb5980-127b-43b9-be6f-ff7ebc4640c0",
+    "name": "Mobiliario de oficina",
+    "synonyms": [
+      "escritorio",
+      "silla",
+      "archivero"
+    ],
+    "regimes": [
+      "PM"
+    ],
+    "deductible": true,
+    "ivaCreditable": true,
+    "notes": "CFDI; activos; aplicar reglas de inversión."
+  },
+  {
+    "id": "01cdc25c-5c78-48e6-ba14-6d34c8844acd",
+    "name": "Herramientas",
+    "synonyms": [
+      "herramienta",
+      "equipo manual"
+    ],
+    "regimes": [
+      "PM"
+    ],
+    "deductible": true,
+    "ivaCreditable": true,
+    "notes": "CFDI; necesarias para la actividad."
+  },
+  {
+    "id": "f009b662-78b1-4c72-9378-92809b3d8baf",
+    "name": "Maquinaria",
+    "synonyms": [
+      "maquinaria ligera"
+    ],
+    "regimes": [
+      "PM"
+    ],
+    "deductible": true,
+    "ivaCreditable": true,
+    "notes": "CFDI; activos; límites de inversión RESICO."
+  },
+  {
+    "id": "cc4168ae-21bf-4d5e-b286-4235994138c1",
+    "name": "Vehículos (uso empresarial)",
+    "synonyms": [
+      "auto de trabajo",
+      "vehículo utilitario"
+    ],
+    "regimes": [
+      "PM"
+    ],
+    "deductible": true,
+    "ivaCreditable": true,
+    "notes": "CFDI; límites específicos RESICO; bitácora de uso."
+  },
+  {
+    "id": "3a25ab88-938d-44dc-95a4-c1cce12b9d88",
+    "name": "Honorarios de contador",
+    "synonyms": [
+      "servicios contables"
+    ],
+    "regimes": [
+      "PM"
+    ],
+    "deductible": true,
+    "ivaCreditable": true,
+    "notes": "CFDI; relación directa con obligaciones fiscales."
+  },
+  {
+    "id": "28ff18f1-23c3-4413-8310-ba33c06e174a",
+    "name": "Servicios legales",
+    "synonyms": [
+      "abogado",
+      "asesoría legal"
+    ],
+    "regimes": [
+      "PM"
+    ],
+    "deductible": true,
+    "ivaCreditable": true,
+    "notes": "CFDI; vinculados a la actividad."
+  },
+  {
+    "id": "d01c453e-a4f8-4ef7-9a7a-7b49d483b20f",
+    "name": "Consultoría",
+    "synonyms": [
+      "asesoría",
+      "consultoría de negocio"
+    ],
+    "regimes": [
+      "PM"
+    ],
+    "deductible": true,
+    "ivaCreditable": true,
+    "notes": "CFDI; justificar relación negocio."
+  },
+  {
+    "id": "8120d366-66f4-4c4f-a42c-7790e046b93b",
+    "name": "Capacitación",
+    "synonyms": [
+      "cursos",
+      "talleres"
+    ],
+    "regimes": [
+      "PM"
+    ],
+    "deductible": true,
+    "ivaCreditable": true,
+    "notes": "CFDI; relacionada con la actividad."
+  },
+  {
+    "id": "a766ecde-acf4-4a0f-8449-ec69c5fcfcb1",
+    "name": "Software",
+    "synonyms": [
+      "suscripciones",
+      "licencias"
+    ],
+    "regimes": [
+      "PM"
+    ],
+    "deductible": true,
+    "ivaCreditable": true,
+    "notes": "CFDI; licencias y suscripciones de software."
+  },
+  {
+    "id": "ef76c7e6-bf63-4ff4-8e04-2b77e45b894a",
+    "name": "Hosting y dominios",
+    "synonyms": [
+      "hosting",
+      "dominio"
+    ],
+    "regimes": [
+      "PM"
+    ],
+    "deductible": true,
+    "ivaCreditable": true,
+    "notes": "CFDI; servicios en la nube."
+  },
+  {
+    "id": "3492a61e-e9d6-46df-be73-aade6eb58bc4",
+    "name": "Servicios en la nube",
+    "synonyms": [
+      "cloud",
+      "SaaS",
+      "IaaS"
+    ],
+    "regimes": [
+      "PM"
+    ],
+    "deductible": true,
+    "ivaCreditable": true,
+    "notes": "CFDI; necesarias para operación."
+  },
+  {
+    "id": "d0e849e4-d865-441a-98a4-ecba42b5528a",
+    "name": "Publicidad",
+    "synonyms": [
+      "ads",
+      "anuncios"
+    ],
+    "regimes": [
+      "PM"
+    ],
+    "deductible": true,
+    "ivaCreditable": true,
+    "notes": "CFDI; medios digitales o tradicionales."
+  },
+  {
+    "id": "68072b57-02f2-42df-9ad3-917a804d62ea",
+    "name": "Marketing digital",
+    "synonyms": [
+      "redes sociales",
+      "campañas"
+    ],
+    "regimes": [
+      "PM"
+    ],
+    "deductible": true,
+    "ivaCreditable": true,
+    "notes": "CFDI; rendimiento medible recomendado."
+  },
+  {
+    "id": "357d9a13-6b74-492e-a5a3-b591edf7f475",
+    "name": "Material promocional",
+    "synonyms": [
+      "volantes",
+      "lonas"
+    ],
+    "regimes": [
+      "PM"
+    ],
+    "deductible": true,
+    "ivaCreditable": true,
+    "notes": "CFDI; vinculado a promoción de actividad."
+  },
+  {
+    "id": "80122665-ac4d-46ad-81f8-4b26707922ac",
+    "name": "Comisiones",
+    "synonyms": [
+      "comisiones bancarias",
+      "pasarela de pago"
+    ],
+    "regimes": [
+      "PM"
+    ],
+    "deductible": true,
+    "ivaCreditable": false,
+    "notes": "CFDI o estados de cuenta; IVA no siempre acreditable en servicios financieros."
+  },
+  {
+    "id": "ad069363-81ac-42ea-8cf8-ec92d6bc951e",
+    "name": "Salarios",
+    "synonyms": [
+      "nómina"
+    ],
+    "regimes": [
+      "PM"
+    ],
+    "deductible": true,
+    "ivaCreditable": false,
+    "notes": "Aplica si existe relación laboral; CFDI de nómina; IMSS/INFONAVIT."
+  },
+  {
+    "id": "eda3ab39-0fcd-462a-af8b-2b1915027c2c",
+    "name": "Prestaciones",
+    "synonyms": [
+      "vales",
+      "bonos"
+    ],
+    "regimes": [
+      "PM"
+    ],
+    "deductible": true,
+    "ivaCreditable": false,
+    "notes": "Conforme a LFT y CFDI de nómina."
+  },
+  {
+    "id": "daad1831-2ffb-4f76-91e4-b3eb23eae196",
+    "name": "IMSS e Infonavit",
+    "synonyms": [
+      "seguridad social"
+    ],
+    "regimes": [
+      "PM"
+    ],
+    "deductible": true,
+    "ivaCreditable": false,
+    "notes": "Cuotas obligatorias; no acreditan IVA."
+  },
+  {
+    "id": "d9d1d97a-50e3-4d42-8b1d-0723028b2f4b",
+    "name": "Gastos personales",
+    "synonyms": [
+      "uso personal"
+    ],
+    "regimes": [
+      "PM"
+    ],
+    "deductible": false,
+    "ivaCreditable": false,
+    "notes": "No deducible. Gasto no relacionado con la actividad."
+  },
+  {
+    "id": "e37ae63a-113f-41b3-b4be-d79de20ae655",
+    "name": "Multas y recargos",
+    "synonyms": [
+      "multas"
+    ],
+    "regimes": [
+      "PM"
+    ],
+    "deductible": false,
+    "ivaCreditable": false,
+    "notes": "No deducible por LISR."
+  },
+  {
+    "id": "91c9c96f-3632-4d94-b2cd-485d28de7ba4",
+    "name": "Donativos no autorizados",
+    "synonyms": [
+      "donativos"
+    ],
+    "regimes": [
+      "PM"
+    ],
+    "deductible": false,
+    "ivaCreditable": false,
+    "notes": "No deducibles si la donataria no es autorizada."
+  },
+  {
+    "id": "8edede59-c5e6-467c-8b97-3600dfdaa339",
+    "name": "Inversiones mayores",
+    "synonyms": [
+      "activos mayores"
+    ],
+    "regimes": [
+      "PM"
+    ],
+    "deductible": true,
+    "ivaCreditable": true,
+    "notes": "CFDI; deducción vía depreciación acelerada si procede; Art. 103-115 LISR."
+  },
+  {
+    "id": "df383789-32f9-4e4d-9f9e-c196dde94915",
+    "name": "Vehículos sin límite $175k (si procede)",
+    "synonyms": [
+      "vehículo sin tope"
+    ],
+    "regimes": [
+      "PM"
+    ],
+    "deductible": true,
+    "ivaCreditable": true,
+    "notes": "Sujeto a requisitos específicos AE/AEyP; bitácora uso; restricciones RESICO no aplican igual."
+  },
+  {
+    "id": "cf66d2ef-dfdf-4264-99b7-ecde943bd184",
+    "name": "Gastos de representación",
+    "synonyms": [
+      "representación"
+    ],
+    "regimes": [
+      "PM"
+    ],
+    "deductible": true,
+    "ivaCreditable": true,
+    "notes": "CFDI; límites y comprobación estricta."
+  },
+  {
+    "id": "a4079de0-1829-4e20-ae02-79a99ebbd401",
+    "name": "Viáticos completos",
+    "synonyms": [
+      "viáticos"
+    ],
+    "regimes": [
+      "PM"
+    ],
+    "deductible": true,
+    "ivaCreditable": true,
+    "notes": "CFDI + documentación soporte; reglas de viaje."
+  },
+  {
+    "id": "a4558d72-f1f9-4ac3-8740-00a2ee961d6a",
+    "name": "Depreciación acelerada",
+    "synonyms": [
+      "depreciación"
+    ],
+    "regimes": [
+      "PM"
+    ],
+    "deductible": true,
+    "ivaCreditable": false,
+    "notes": "No IVA; contable-fiscal según LISR."
+  },
+  {
+    "id": "7b2ad555-e775-4757-98c8-5107c8d6c622",
+    "name": "Equipos especializados",
+    "synonyms": [
+      "equipo profesional"
+    ],
+    "regimes": [
+      "PM"
+    ],
+    "deductible": true,
+    "ivaCreditable": true,
+    "notes": "CFDI; por profesión (médico, arquitecto, etc.)."
+  },
+  {
+    "id": "a56fd063-9eac-483e-96c6-916cba63637c",
+    "name": "Colegíaturas profesionales",
+    "synonyms": [
+      "colegiaturas"
+    ],
+    "regimes": [
+      "PM"
+    ],
+    "deductible": true,
+    "ivaCreditable": false,
+    "notes": "Deducible ISR con requisitos; IVA usualmente no acreditable."
+  },
+  {
+    "id": "4ccd5925-beae-4fbb-b423-eb46357ea420",
+    "name": "Seguro de responsabilidad civil",
+    "synonyms": [
+      "RC profesional"
+    ],
+    "regimes": [
+      "PM"
+    ],
+    "deductible": true,
+    "ivaCreditable": true,
+    "notes": "CFDI; pólizas para actividad profesional."
+  },
+  {
+    "id": "d4446251-72ea-4c88-9ad6-a3d43568badb",
+    "name": "Materiales por profesión",
+    "synonyms": [
+      "material médico",
+      "material arquitecto"
+    ],
+    "regimes": [
+      "PM"
+    ],
+    "deductible": true,
+    "ivaCreditable": true,
+    "notes": "CFDI; insumos específicos."
+  },
+  {
+    "id": "ea07a3c0-f3c1-4630-9089-0eb2266a3ac1",
+    "name": "Mantenimiento de inmuebles (arrendamiento)",
+    "synonyms": [
+      "mantenimiento inmueble"
+    ],
+    "regimes": [
+      "PM"
+    ],
+    "deductible": true,
+    "ivaCreditable": true,
+    "notes": "CFDI; gasto de conservación del inmueble arrendado."
+  },
+  {
+    "id": "735bcae0-964c-4bf5-86f7-7e19f5073874",
+    "name": "Predial",
+    "synonyms": [
+      "impuesto predial"
+    ],
+    "regimes": [
+      "PM"
+    ],
+    "deductible": true,
+    "ivaCreditable": false,
+    "notes": "Impuesto local; sin IVA acreditable."
+  },
+  {
+    "id": "611abbdd-bb20-4d55-9afd-af7a561242b0",
+    "name": "Seguros de inmuebles",
+    "synonyms": [
+      "seguro inmueble"
+    ],
+    "regimes": [
+      "PM"
+    ],
+    "deductible": true,
+    "ivaCreditable": true,
+    "notes": "CFDI; vinculado a inmuebles arrendados."
+  },
+  {
+    "id": "e15b5ef4-53ab-4537-aac5-0fede5b64d24",
+    "name": "Administración de propiedades",
+    "synonyms": [
+      "property management"
+    ],
+    "regimes": [
+      "PM"
+    ],
+    "deductible": true,
+    "ivaCreditable": true,
+    "notes": "CFDI; honorarios administración."
+  },
+  {
+    "id": "ec72ec73-7f44-4cbe-8ce4-377799f4d7d9",
+    "name": "Inventarios",
+    "synonyms": [
+      "existencias"
+    ],
+    "regimes": [
+      "PM"
+    ],
+    "deductible": true,
+    "ivaCreditable": false,
+    "notes": "Acumulación contable; IVA según proveedor y pago."
+  },
+  {
+    "id": "03ec1bda-9998-4ce6-836d-cfa5dfab6949",
+    "name": "Merma y obsolescencia",
+    "synonyms": [
+      "mermas"
+    ],
+    "regimes": [
+      "PM"
+    ],
+    "deductible": true,
+    "ivaCreditable": false,
+    "notes": "Procedimientos documentados."
+  },
+  {
+    "id": "d31bfea0-cdfc-46f2-acc6-6c26ce43e65d",
+    "name": "Devoluciones",
+    "synonyms": [
+      "devolución sobre ventas"
+    ],
+    "regimes": [
+      "PM"
+    ],
+    "deductible": true,
+    "ivaCreditable": false,
+    "notes": "Ajuste contable/fiscal conforme CFDI."
+  },
+  {
+    "id": "17ed703d-d7ad-4e2b-a3f4-fdc40bb2ee80",
+    "name": "Costo de ventas",
+    "synonyms": [
+      "COGS"
+    ],
+    "regimes": [
+      "PM"
+    ],
+    "deductible": true,
+    "ivaCreditable": false,
+    "notes": "Deducción básica de actividad empresarial."
+  },
+  {
+    "id": "33085669-d24d-430e-a8ae-280deb0c8395",
+    "name": "Previsión social",
+    "synonyms": [
+      "prestaciones"
+    ],
+    "regimes": [
+      "PM"
+    ],
+    "deductible": true,
+    "ivaCreditable": false,
+    "notes": "Reglas específicas LISR."
+  },
+  {
+    "id": "06890f5d-eca5-4084-aa4f-161d28b84d49",
+    "name": "Fondos de pensiones",
+    "synonyms": [
+      "pensión privada"
+    ],
+    "regimes": [
+      "PM"
+    ],
+    "deductible": true,
+    "ivaCreditable": false,
+    "notes": "Reglas y límites LISR."
+  },
+  {
+    "id": "04806ef3-f300-4c84-be32-4b16b735f817",
+    "name": "Seguros de gastos médicos",
+    "synonyms": [
+      "GMM"
+    ],
+    "regimes": [
+      "PM"
+    ],
+    "deductible": true,
+    "ivaCreditable": false,
+    "notes": "Póliza y CFDI; sin IVA acreditable."
+  },
+  {
+    "id": "f288be98-cdc3-4555-ad2b-e2a225b5503e",
+    "name": "Asambleas de accionistas",
+    "synonyms": [
+      "asambleas"
+    ],
+    "regimes": [
+      "PM"
+    ],
+    "deductible": true,
+    "ivaCreditable": false,
+    "notes": "Gastos corporativos; sin IVA si son internos."
+  },
+  {
+    "id": "003519e6-af93-4cbd-9e70-51b85fa45260",
+    "name": "Dividendos (tratamiento especial)",
+    "synonyms": [
+      "dividendos"
+    ],
+    "regimes": [
+      "PM"
+    ],
+    "deductible": false,
+    "ivaCreditable": false,
+    "notes": "No deducción; tratamiento en CUFIN."
+  },
+  {
+    "id": "03bbf85c-67a6-4372-980a-c167793f8558",
+    "name": "Reservas legales",
+    "synonyms": [
+      "reserva legal"
+    ],
+    "regimes": [
+      "PM"
+    ],
+    "deductible": true,
+    "ivaCreditable": false,
+    "notes": "Contable; no IVA."
+  },
+  {
+    "id": "80eadda2-df43-4ad7-a77e-9337d3dc5d42",
+    "name": "PTU",
+    "synonyms": [
+      "participación utilidades"
+    ],
+    "regimes": [
+      "PM"
+    ],
+    "deductible": true,
+    "ivaCreditable": false,
+    "notes": "Obligación anual; no IVA."
+  },
+  {
+    "id": "3e0eae89-9c5a-4739-ba40-d0d54ced42e6",
+    "name": "Fusiones y escisiones",
+    "synonyms": [
+      "reestructuras"
+    ],
+    "regimes": [
+      "PM"
+    ],
+    "deductible": true,
+    "ivaCreditable": true,
+    "notes": "Honorarios y gastos con CFDI."
+  },
+  {
+    "id": "d8302482-7fde-460b-9175-cf5da47a824f",
+    "name": "Gastos de constitución",
+    "synonyms": [
+      "constitución"
+    ],
+    "regimes": [
+      "PM"
+    ],
+    "deductible": true,
+    "ivaCreditable": true,
+    "notes": "CFDI; amortización."
+  },
+  {
+    "id": "529cd0a6-6c0e-4a54-8269-c87b4641a3be",
+    "name": "Aumentos de capital",
+    "synonyms": [
+      "capitalización"
+    ],
+    "regimes": [
+      "PM"
+    ],
+    "deductible": false,
+    "ivaCreditable": false,
+    "notes": "No gasto deducible."
+  },
+  {
+    "id": "9f0be895-2e85-45fe-9820-e5e106e5015d",
+    "name": "Maquinaria industrial",
+    "synonyms": [
+      "equipo industrial"
+    ],
+    "regimes": [
+      "PM"
+    ],
+    "deductible": true,
+    "ivaCreditable": true,
+    "notes": "CFDI; inversión/depreciación."
+  },
+  {
+    "id": "f858e3af-6d1d-4bef-b3f0-f2e339c6a61e",
+    "name": "Equipo producción a gran escala",
+    "synonyms": [
+      "equipo producción"
+    ],
+    "regimes": [
+      "PM"
+    ],
+    "deductible": true,
+    "ivaCreditable": true,
+    "notes": "CFDI; inversión/depreciación."
+  },
+  {
+    "id": "2e0caa17-eb67-4bcd-892e-afaa428da596",
+    "name": "Flotillas vehiculares",
+    "synonyms": [
+      "flotilla"
+    ],
+    "regimes": [
+      "PM"
+    ],
+    "deductible": true,
+    "ivaCreditable": true,
+    "notes": "CFDI; políticas de control de uso."
+  },
+  {
+    "id": "c62d84d7-8300-46ef-ae39-1fb974deb5bb",
+    "name": "Inmuebles corporativos",
+    "synonyms": [
+      "edificios"
+    ],
+    "regimes": [
+      "PM"
+    ],
+    "deductible": true,
+    "ivaCreditable": true,
+    "notes": "CFDI; inversión/depreciación."
+  },
+  {
+    "id": "34e868a8-9695-4915-8966-00215229fba7",
+    "name": "Infraestructura",
+    "synonyms": [
+      "infraestructura"
+    ],
+    "regimes": [
+      "PM"
+    ],
+    "deductible": true,
+    "ivaCreditable": true,
+    "notes": "CFDI; inversión."
+  },
+  {
+    "id": "4c33fd53-1424-4825-8a40-c58295a898b9",
+    "name": "Intereses bancarios",
+    "synonyms": [
+      "intereses"
+    ],
+    "regimes": [
+      "PM"
+    ],
+    "deductible": true,
+    "ivaCreditable": false,
+    "notes": "No IVA; deducible ISR con límites de subcapitalización."
+  },
+  {
+    "id": "dbf35afd-9ad5-4e05-964c-37e829660832",
+    "name": "Comisiones bancarias corporativas",
+    "synonyms": [
+      "comisiones bancarias"
+    ],
+    "regimes": [
+      "PM"
+    ],
+    "deductible": true,
+    "ivaCreditable": false,
+    "notes": "ISR deducible; IVA no acreditable usualmente."
+  },
+  {
+    "id": "1103fe17-4060-4f54-9f20-6800abdea1ca",
+    "name": "Pérdidas cambiarias",
+    "synonyms": [
+      "pérdidas FX"
+    ],
+    "regimes": [
+      "PM"
+    ],
+    "deductible": true,
+    "ivaCreditable": false,
+    "notes": "Deducibles ISR."
+  },
+  {
+    "id": "8bd134a7-d775-4999-b6f8-9e5a594cce75",
+    "name": "Derivados financieros",
+    "synonyms": [
+      "derivados"
+    ],
+    "regimes": [
+      "PM"
+    ],
+    "deductible": true,
+    "ivaCreditable": false,
+    "notes": "Tratamiento fiscal específico."
+  },
+  {
+    "id": "2dca0bfe-174c-43a1-8fa8-3d931f1f113e",
+    "name": "Fondos de ahorro",
+    "synonyms": [
+      "fondo ahorro"
+    ],
+    "regimes": [
+      "PM"
+    ],
+    "deductible": true,
+    "ivaCreditable": false,
+    "notes": "Prestación a trabajadores; reglas LISR."
+  },
+  {
+    "id": "4460d6c4-26c5-43c9-a1d1-69985340cb8b",
+    "name": "Vales de despensa",
+    "synonyms": [
+      "vales despensa"
+    ],
+    "regimes": [
+      "PM"
+    ],
+    "deductible": true,
+    "ivaCreditable": false,
+    "notes": "Esquemas autorizados."
+  },
+  {
+    "id": "c8a73879-fa51-4795-a79e-76ff5df1707a",
+    "name": "Seguros de vida grupo",
+    "synonyms": [
+      "seguro vida grupo"
+    ],
+    "regimes": [
+      "PM"
+    ],
+    "deductible": true,
+    "ivaCreditable": true,
+    "notes": "CFDI; pólizas de grupo."
+  },
+  {
+    "id": "8bbcc1cd-1fb4-4af7-bb12-358b47944334",
+    "name": "Planes de pensiones",
+    "synonyms": [
+      "plan pensiones"
+    ],
+    "regimes": [
+      "PM"
+    ],
+    "deductible": true,
+    "ivaCreditable": false,
+    "notes": "Reglas y límites LISR."
+  },
+  {
+    "id": "9729e125-71da-4a36-b93b-4a071c5ecb25",
+    "name": "Investigación y desarrollo",
+    "synonyms": [
+      "I+D"
+    ],
+    "regimes": [
+      "PM"
+    ],
+    "deductible": true,
+    "ivaCreditable": true,
+    "notes": "CFDI; posible estímulo fiscal."
+  },
+  {
+    "id": "5bf6c911-12a0-4acc-8769-0b3c8efcf88a",
+    "name": "Patentes y marcas",
+    "synonyms": [
+      "propiedad intelectual"
+    ],
+    "regimes": [
+      "PM"
+    ],
+    "deductible": true,
+    "ivaCreditable": true,
+    "notes": "CFDI; amortización."
+  },
+  {
+    "id": "b19c6874-1683-47c2-ae2b-33b51384e549",
+    "name": "Innovación tecnológica",
+    "synonyms": [
+      "innovación"
+    ],
+    "regimes": [
+      "PM"
+    ],
+    "deductible": true,
+    "ivaCreditable": true,
+    "notes": "CFDI; proyectos de innovación."
+  },
+  {
+    "id": "8922a532-3aac-4651-abba-fa744d2c0fca",
+    "name": "Importaciones",
+    "synonyms": [
+      "import"
+    ],
+    "regimes": [
+      "PM"
+    ],
+    "deductible": true,
+    "ivaCreditable": true,
+    "notes": "IVA acreditable al pedimento + CFDI gastos."
+  },
+  {
+    "id": "305d6aa8-f2f2-487e-ab6b-6c75cc4986dc",
+    "name": "Exportaciones",
+    "synonyms": [
+      "export"
+    ],
+    "regimes": [
+      "PM"
+    ],
+    "deductible": true,
+    "ivaCreditable": false,
+    "notes": "Tasa 0% IVA; deducible ISR según costo."
+  },
+  {
+    "id": "b45cc737-8e57-4a81-85f6-9c8103d6b4cb",
+    "name": "Precios de transferencia",
+    "synonyms": [
+      "transfer pricing"
+    ],
+    "regimes": [
+      "PM"
+    ],
+    "deductible": true,
+    "ivaCreditable": true,
+    "notes": "Honorarios y estudios; CFDI."
+  }
+]

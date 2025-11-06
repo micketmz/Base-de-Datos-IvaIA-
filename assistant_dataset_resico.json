@@ -1,0 +1,450 @@
+[
+  {
+    "id": "ccf96d22-ee49-4ddb-8416-b184f57309c0",
+    "name": "Gasolina y diesel",
+    "synonyms": [
+      "combustible",
+      "gasolina",
+      "diesel"
+    ],
+    "regimes": [
+      "RESICO"
+    ],
+    "deductible": true,
+    "ivaCreditable": true,
+    "notes": "CFDI con método válido; control de consumo; evitar uso personal. Límite ingresos RESICO $3.5M; Art. 113-J LISR."
+  },
+  {
+    "id": "8fb8fedb-16b3-4b46-9dd9-e990a425dbdb",
+    "name": "Energía eléctrica",
+    "synonyms": [
+      "luz",
+      "electricidad",
+      "CFE"
+    ],
+    "regimes": [
+      "RESICO"
+    ],
+    "deductible": true,
+    "ivaCreditable": true,
+    "notes": "CFDI requerido; contrato a nombre del contribuyente; uso del local/actividad."
+  },
+  {
+    "id": "740269d7-a489-415f-856d-c6d3fa382b82",
+    "name": "Agua",
+    "synonyms": [
+      "servicio de agua",
+      "agua potable"
+    ],
+    "regimes": [
+      "RESICO"
+    ],
+    "deductible": true,
+    "ivaCreditable": true,
+    "notes": "CFDI; sólo por consumos del negocio."
+  },
+  {
+    "id": "4e20423a-5845-4116-9eb4-e532e2cf4507",
+    "name": "Gas natural",
+    "synonyms": [
+      "gas",
+      "gas LP"
+    ],
+    "regimes": [
+      "RESICO"
+    ],
+    "deductible": true,
+    "ivaCreditable": true,
+    "notes": "CFDI; deducible si se usa en la actividad."
+  },
+  {
+    "id": "19afe4ab-61cd-4e1d-9cb2-8309c6edc6d7",
+    "name": "Telefonía e internet",
+    "synonyms": [
+      "teléfono",
+      "internet",
+      "datos móviles"
+    ],
+    "regimes": [
+      "RESICO"
+    ],
+    "deductible": true,
+    "ivaCreditable": true,
+    "notes": "CFDI; prorrateo si hay uso mixto hogar/negocio."
+  },
+  {
+    "id": "44e62bdb-6955-4476-b997-b42bcc37b017",
+    "name": "Renta de oficina/local",
+    "synonyms": [
+      "arrendamiento",
+      "alquiler"
+    ],
+    "regimes": [
+      "RESICO"
+    ],
+    "deductible": true,
+    "ivaCreditable": true,
+    "notes": "Contrato + CFDI del arrendador con RFC válido; retenciones si aplica."
+  },
+  {
+    "id": "6eafa091-024c-482b-ac84-68eb75a164b4",
+    "name": "Papelería y consumibles",
+    "synonyms": [
+      "papelería",
+      "consumibles"
+    ],
+    "regimes": [
+      "RESICO"
+    ],
+    "deductible": true,
+    "ivaCreditable": true,
+    "notes": "CFDI; relación con la actividad."
+  },
+  {
+    "id": "8aaeadc9-49ea-45f5-9916-fea1987f31e9",
+    "name": "Mantenimiento de equipo",
+    "synonyms": [
+      "mantenimiento",
+      "servicio técnico"
+    ],
+    "regimes": [
+      "RESICO"
+    ],
+    "deductible": true,
+    "ivaCreditable": true,
+    "notes": "CFDI; evidencia del activo atendido."
+  },
+  {
+    "id": "ee30c49d-d60b-48ea-b5ca-f22cb402e720",
+    "name": "Limpieza",
+    "synonyms": [
+      "insumos de limpieza",
+      "servicio de limpieza"
+    ],
+    "regimes": [
+      "RESICO"
+    ],
+    "deductible": true,
+    "ivaCreditable": true,
+    "notes": "CFDI; deducible si el local es de negocio."
+  },
+  {
+    "id": "5482fa7c-793a-4d0e-9b46-44d3c0663dc7",
+    "name": "Seguridad",
+    "synonyms": [
+      "cámaras",
+      "alarmas",
+      "vigilancia"
+    ],
+    "regimes": [
+      "RESICO"
+    ],
+    "deductible": true,
+    "ivaCreditable": true,
+    "notes": "CFDI; servicios o equipos para el negocio."
+  },
+  {
+    "id": "89d6a1bf-1719-42b5-8498-0ae6fe6c7a37",
+    "name": "Equipo de cómputo",
+    "synonyms": [
+      "laptop",
+      "desktop",
+      "tablet"
+    ],
+    "regimes": [
+      "RESICO"
+    ],
+    "deductible": true,
+    "ivaCreditable": true,
+    "notes": "CFDI; activos con depreciación si exceden umbrales; control de inventario."
+  },
+  {
+    "id": "1b76b373-7df3-4bc2-ab6e-8f1d32797106",
+    "name": "Mobiliario de oficina",
+    "synonyms": [
+      "escritorio",
+      "silla",
+      "archivero"
+    ],
+    "regimes": [
+      "RESICO"
+    ],
+    "deductible": true,
+    "ivaCreditable": true,
+    "notes": "CFDI; activos; aplicar reglas de inversión."
+  },
+  {
+    "id": "41ffedbd-70fc-45c6-b46d-7b418edc54a3",
+    "name": "Herramientas",
+    "synonyms": [
+      "herramienta",
+      "equipo manual"
+    ],
+    "regimes": [
+      "RESICO"
+    ],
+    "deductible": true,
+    "ivaCreditable": true,
+    "notes": "CFDI; necesarias para la actividad."
+  },
+  {
+    "id": "41df69f5-0afa-4416-b9a4-9856a7ab5005",
+    "name": "Maquinaria",
+    "synonyms": [
+      "maquinaria ligera"
+    ],
+    "regimes": [
+      "RESICO"
+    ],
+    "deductible": true,
+    "ivaCreditable": true,
+    "notes": "CFDI; activos; límites de inversión RESICO."
+  },
+  {
+    "id": "c2f9e365-89ae-415d-886d-da6dd538bb00",
+    "name": "Vehículos (uso empresarial)",
+    "synonyms": [
+      "auto de trabajo",
+      "vehículo utilitario"
+    ],
+    "regimes": [
+      "RESICO"
+    ],
+    "deductible": true,
+    "ivaCreditable": true,
+    "notes": "CFDI; límites específicos RESICO; bitácora de uso."
+  },
+  {
+    "id": "f981324d-f86c-488c-9bcf-eec1c0104437",
+    "name": "Honorarios de contador",
+    "synonyms": [
+      "servicios contables"
+    ],
+    "regimes": [
+      "RESICO"
+    ],
+    "deductible": true,
+    "ivaCreditable": true,
+    "notes": "CFDI; relación directa con obligaciones fiscales."
+  },
+  {
+    "id": "314675de-a09b-45a7-b476-348c49118b90",
+    "name": "Servicios legales",
+    "synonyms": [
+      "abogado",
+      "asesoría legal"
+    ],
+    "regimes": [
+      "RESICO"
+    ],
+    "deductible": true,
+    "ivaCreditable": true,
+    "notes": "CFDI; vinculados a la actividad."
+  },
+  {
+    "id": "1a92e3d4-ab22-49b1-876f-cee3e3f63bc1",
+    "name": "Consultoría",
+    "synonyms": [
+      "asesoría",
+      "consultoría de negocio"
+    ],
+    "regimes": [
+      "RESICO"
+    ],
+    "deductible": true,
+    "ivaCreditable": true,
+    "notes": "CFDI; justificar relación negocio."
+  },
+  {
+    "id": "b0b3c32c-94eb-4139-b5af-39fc1d6584cd",
+    "name": "Capacitación",
+    "synonyms": [
+      "cursos",
+      "talleres"
+    ],
+    "regimes": [
+      "RESICO"
+    ],
+    "deductible": true,
+    "ivaCreditable": true,
+    "notes": "CFDI; relacionada con la actividad."
+  },
+  {
+    "id": "d38432c3-eeac-46bd-8326-d2b4290f0f02",
+    "name": "Software",
+    "synonyms": [
+      "suscripciones",
+      "licencias"
+    ],
+    "regimes": [
+      "RESICO"
+    ],
+    "deductible": true,
+    "ivaCreditable": true,
+    "notes": "CFDI; licencias y suscripciones de software."
+  },
+  {
+    "id": "020c4c73-7483-4b6e-85c7-2bae8f4dc2e6",
+    "name": "Hosting y dominios",
+    "synonyms": [
+      "hosting",
+      "dominio"
+    ],
+    "regimes": [
+      "RESICO"
+    ],
+    "deductible": true,
+    "ivaCreditable": true,
+    "notes": "CFDI; servicios en la nube."
+  },
+  {
+    "id": "61ecf9ea-27d2-48a0-a3da-67871a21b004",
+    "name": "Servicios en la nube",
+    "synonyms": [
+      "cloud",
+      "SaaS",
+      "IaaS"
+    ],
+    "regimes": [
+      "RESICO"
+    ],
+    "deductible": true,
+    "ivaCreditable": true,
+    "notes": "CFDI; necesarias para operación."
+  },
+  {
+    "id": "92ad6829-c2b6-4097-825e-49cbe4fb0347",
+    "name": "Publicidad",
+    "synonyms": [
+      "ads",
+      "anuncios"
+    ],
+    "regimes": [
+      "RESICO"
+    ],
+    "deductible": true,
+    "ivaCreditable": true,
+    "notes": "CFDI; medios digitales o tradicionales."
+  },
+  {
+    "id": "1775604b-5cce-4c61-a156-40b42aa22c39",
+    "name": "Marketing digital",
+    "synonyms": [
+      "redes sociales",
+      "campañas"
+    ],
+    "regimes": [
+      "RESICO"
+    ],
+    "deductible": true,
+    "ivaCreditable": true,
+    "notes": "CFDI; rendimiento medible recomendado."
+  },
+  {
+    "id": "90b7e0a7-e1e3-446b-aa9e-ac033afb7c5b",
+    "name": "Material promocional",
+    "synonyms": [
+      "volantes",
+      "lonas"
+    ],
+    "regimes": [
+      "RESICO"
+    ],
+    "deductible": true,
+    "ivaCreditable": true,
+    "notes": "CFDI; vinculado a promoción de actividad."
+  },
+  {
+    "id": "6bb8eafd-dbd1-4ab2-97dc-6c53e65ab2e9",
+    "name": "Comisiones",
+    "synonyms": [
+      "comisiones bancarias",
+      "pasarela de pago"
+    ],
+    "regimes": [
+      "RESICO"
+    ],
+    "deductible": true,
+    "ivaCreditable": false,
+    "notes": "CFDI o estados de cuenta; IVA no siempre acreditable en servicios financieros."
+  },
+  {
+    "id": "e5bade0d-d51c-4213-8de6-bfd57a0814ed",
+    "name": "Salarios",
+    "synonyms": [
+      "nómina"
+    ],
+    "regimes": [
+      "RESICO"
+    ],
+    "deductible": true,
+    "ivaCreditable": false,
+    "notes": "Aplica si existe relación laboral; CFDI de nómina; IMSS/INFONAVIT."
+  },
+  {
+    "id": "758addd9-b58a-4a71-8d80-11c4bb592a66",
+    "name": "Prestaciones",
+    "synonyms": [
+      "vales",
+      "bonos"
+    ],
+    "regimes": [
+      "RESICO"
+    ],
+    "deductible": true,
+    "ivaCreditable": false,
+    "notes": "Conforme a LFT y CFDI de nómina."
+  },
+  {
+    "id": "46e1600d-108f-468b-a97f-f5dd6c1c03bf",
+    "name": "IMSS e Infonavit",
+    "synonyms": [
+      "seguridad social"
+    ],
+    "regimes": [
+      "RESICO"
+    ],
+    "deductible": true,
+    "ivaCreditable": false,
+    "notes": "Cuotas obligatorias; no acreditan IVA."
+  },
+  {
+    "id": "03428573-17f1-44d8-aa51-fda1dab0e4e8",
+    "name": "Gastos personales",
+    "synonyms": [
+      "uso personal"
+    ],
+    "regimes": [
+      "RESICO"
+    ],
+    "deductible": false,
+    "ivaCreditable": false,
+    "notes": "No deducible. Gasto no relacionado con la actividad."
+  },
+  {
+    "id": "a545da2d-79eb-4151-8b7c-40e00ffcf498",
+    "name": "Multas y recargos",
+    "synonyms": [
+      "multas"
+    ],
+    "regimes": [
+      "RESICO"
+    ],
+    "deductible": false,
+    "ivaCreditable": false,
+    "notes": "No deducible por LISR."
+  },
+  {
+    "id": "5192481d-b5eb-4514-9e84-f5bfa68d48d8",
+    "name": "Donativos no autorizados",
+    "synonyms": [
+      "donativos"
+    ],
+    "regimes": [
+      "RESICO"
+    ],
+    "deductible": false,
+    "ivaCreditable": false,
+    "notes": "No deducibles si la donataria no es autorizada."
+  }
+]
